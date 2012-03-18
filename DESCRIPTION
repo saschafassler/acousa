@@ -1,0 +1,10 @@
+Package: acousa
+Type: Package
+Title: R code to analyse acoustic surveys run by ICES 
+Version: 1.0
+Date: 2011-10-13
+Author: Sascha Fässler <sascha.fassler@gmail.com>
+Maintainer: Sascha Fässler <sascha.fassler@gmail.com>
+Description: The International Council for the Exploration of the Sea runs various acoustic surveys that cover the Baltic Sea, Skagerrak, Kattegat, North Sea, English Channel, Celtic Sea, Irish Sea, Bay of Biscay and the eastern Atlantic from the Shetlands to Gibraltar. This library enables the data to be analyzed in R.
+License: GPL-2 
+LazyLoad: yes
