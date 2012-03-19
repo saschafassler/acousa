@@ -1,4 +1,4 @@
-Package: acousa
+Package: acousaR
 Type: Package
 Title: R code to analyse acoustic surveys run by ICES 
 Version: 1.0
