@@ -1,0 +1,10 @@
+Package: acousaR
+Type: Package
+Title: ACOUstic Survey Analysis in R
+Version: 1.0
+Date: 2012-03-19
+Author: Sascha F<e4>ssler
+Maintainer: Sascha F<e4>ssler <sascha.fassler@wur.nl>
+Description: The International Council for the Exploration of the Sea runs various acoustic surveys that cover the Baltic Sea, Skagerrak, Kattegat, North Sea, English Channel, Celtic Sea, Irish Sea, Bay of Biscay and the eastern Atlantic from the Shetlands to Gibraltar. This library enables the data to be analysed in R.
+License: GNU GPL v2
+Built: R 2.14.2; ; 2012-03-19 23:34:15 UTC; windows
