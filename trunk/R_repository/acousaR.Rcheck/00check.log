@@ -1,0 +1,201 @@
+* using log directory 'D:/Sascha/Projects/AsaR/acousa/acousa/R_repository/acousaR.Rcheck'
+* using R version 2.14.2 (2012-02-29)
+* using platform: x86_64-pc-mingw32 (64-bit)
+* using session charset: ISO8859-1
+* checking for file 'acousaR/DESCRIPTION' ... OK
+* checking extension type ... Package
+* this is package 'acousaR' version '1.0'
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... NOTE
+As from R 2.14.0 all packages need a namespace.
+One will be generated on installation, but it is better to handcraft a
+NAMESPACE file: R CMD build will produce a suitable starting point.
+* checking for executable files ... OK
+* checking whether package 'acousaR' can be installed ... WARNING
+Found the following significant warnings:
+  Warning: D:/Sascha/Projects/AsaR/acousa/acousa/R_repository/acousaR/man/acousaR-package.Rd:32: All text must be in a section
+See 'D:/Sascha/Projects/AsaR/acousa/acousa/R_repository/acousaR.Rcheck/00install.out' for details.
+* checking installed package size ... NOTE
+  installed size is 34.0Mb
+  sub-directories of 1Mb or more:
+    data  33.9Mb
+* checking package directory ... OK
+* checking for portable file names ... OK
+* checking DESCRIPTION meta-information ... WARNING
+Unknown encoding with non-ASCII data
+Fields with non-ASCII values:
+  'Author' 'Maintainer'
+See the information on DESCRIPTION files in section 'Creating R
+packages' of the 'Writing R Extensions' manual.
+
+Non-standard license specification:
+  GNU GPL v2
+Standardizable: FALSE
+* checking top-level files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking R files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking for unstated dependencies in R code ... WARNING
+'library' or 'require' calls not declared from:
+  'mapdata' 'maptools' 'pgirmess' 'plyr' 'sp' 'tcltk' 'xlsReadWrite'
+See the information on DESCRIPTION files in the chapter 'Creating R
+packages' of the 'Writing R Extensions' manual.
+* checking S3 generic/method consistency ... WARNING
+plot:
+  function(x, ...)
+plot.PDensity:
+  function(fish, what.quarter, chrons1, bw)
+
+See section 'Generic functions and methods' of the 'Writing R
+Extensions' manual.
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... NOTE
+ICESarea: no visible global function definition for 'point.in.polygon'
+NosatAgebyYearLonLat: no visible binding for global variable
+  'merged.haddock'
+NosatAgebyYearLonLat: no visible global function definition for
+  'orderBy'
+NosatAgebyYearStatSquare: no visible binding for global variable
+  'merged.haddock'
+NosatAgebyYearStatSquare: no visible global function definition for
+  'orderBy'
+SPPselect: no visible global function definition for 'tktoplevel'
+SPPselect: no visible global function definition for 'tklistbox'
+SPPselect: no visible binding for global variable 'nr_spp'
+SPPselect: no visible global function definition for 'tkgrid'
+SPPselect: no visible global function definition for 'tklabel'
+SPPselect: no visible global function definition for 'tclVar'
+SPPselect: no visible global function definition for 'tkinsert'
+SPPselect: no visible global function definition for 'tkselection.set'
+SPPselect: no visible global function definition for 'tkbutton'
+SPPselect : <anonymous>: no visible global function definition for
+  'tclvalue<-'
+SPPselect : <anonymous>: no visible global function definition for
+  'tkcurselection'
+SPPselect: no visible global function definition for 'tkfocus'
+SPPselect: no visible global function definition for 'tkwait.variable'
+SPPselect: no visible global function definition for 'tclvalue'
+SPPselect: no visible global function definition for 'tkdestroy'
+addStrataR: no visible binding for global variable 'input_folder'
+addStrataR: no visible global function definition for 'tkmessageBox'
+addStrataR: no visible global function definition for 'read.xls'
+mapGrid: no visible global function definition for 'map'
+mapGrid: no visible global function definition for
+  'as.image.SpatialGridDataFrame'
+mapGrid: no visible global function definition for 'map.scale'
+mergeChronsLfs: no visible binding for global variable 'spurdog'
+nBYstrataR: no visible binding for global variable 'input_folder'
+nBYstrataR: no visible binding for global variable 'surv_cd'
+nBYstrataR: no visible binding for global variable 'surv_yr'
+nBYstrataR: no visible binding for global variable 'rectangles'
+nBYstrataR: no visible global function definition for 'tktoplevel'
+nBYstrataR: no visible global function definition for 'tkwm.title'
+nBYstrataR: no visible global function definition for 'tclVar'
+nBYstrataR: no visible global function definition for 'tkentry'
+nBYstrataR: no visible global function definition for 'tkgrid'
+nBYstrataR: no visible global function definition for 'tklabel'
+nBYstrataR : onOK: no visible binding for '<<-' assignment to
+  'ReturnVal1'
+nBYstrataR : onOK: no visible global function definition for 'tclvalue'
+nBYstrataR : onOK: no visible global function definition for
+  'tkgrab.release'
+nBYstrataR : onOK: no visible global function definition for
+  'tkdestroy'
+nBYstrataR: no visible global function definition for 'tkbutton'
+nBYstrataR: no visible global function definition for 'tkfocus'
+nBYstrataR: no visible global function definition for 'tkwait.window'
+nBYstrataR: no visible global function definition for 'tkmessageBox'
+nBYstrataR: no visible binding for global variable 'ReturnVal1'
+nBYstrataR: no visible binding for global variable 'acoustic_data'
+nascBYrect: no visible global function definition for 'tkmessageBox'
+nascBYrect: no visible global function definition for 'tclvalue'
+nascBYrect: no visible global function definition for 'tkgetSaveFile'
+nascBYrect: no visible binding for global variable 'output_folder'
+nascBYrect: no visible global function definition for 'write.xls'
+plot.PDensity: no visible binding for global variable 'merged.plaice'
+plot.PDensity: no visible binding for global variable 'chrons'
+plot.PDensity: no visible binding for global variable 'fdat'
+plotMapBlobs: no visible binding for global variable 'cpue.dat'
+plotMapBlobs: no visible global function definition for 'map'
+tidyALKdata: no visible binding for global variable 'alk'
+tidyALKdata: no visible binding for global variable 'tsn'
+tidyChronData: no visible binding for global variable 'chrons'
+tidyLfData: no visible binding for global variable 'lfs'
+tidyLfData: no visible binding for global variable 'tsn'
+wBYstrataR: no visible binding for global variable 'surv_yr'
+wBYstrataR: no visible binding for global variable 'haul_pos'
+wBYstrataR: no visible binding for global variable 'letter'
+wBYstrataR: no visible binding for global variable 'sample_data'
+wBYstrataR: no visible binding for global variable 'strata_hauls_LF'
+wBYstrataR: no visible binding for global variable 'catch_data'
+* checking Rd files ... WARNING
+prepare_Rd: acousaR-package.Rd:32: All text must be in a section
+* checking Rd metadata ... OK
+* checking Rd cross-references ... WARNING
+Unknown package(s) '<pkg>' in Rd xrefs
+* checking for missing documentation entries ... WARNING
+Undocumented code objects:
+  'AsaR2FishFrame' 'ICESarea' 'ICESrectangle' 'ICESrectangle2LonLat'
+  'NosatAgebyYearLonLat' 'NosatAgebyYearStatSquare' 'SPPselect'
+  'addStrataR' 'create.grid' 'mapGrid' 'mergeChronsLfs' 'nBYstrataR'
+  'nascBYrect' 'plot.PDensity' 'plotMapBlobs' 'readAsaRaw'
+  'tidyALKdata' 'tidyChronData' 'tidyLfData' 'wBYstrataR'
+Undocumented data sets:
+  'balticBathy' 'europa' 'length.weight' 'northBathy' 'nseaBathy'
+  'nwestBathy' 'southBathy' 'swestBathy' 'tsn'
+All user-level objects in a package should have documentation entries.
+See the chapter 'Writing R documentation files' in the 'Writing R
+Extensions' manual.
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... OK
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... NOTE
+Warning: parse error in file 'acousaR-Ex.R':
+11: unexpected symbol
+20: 
+21: ~~ simple examples
+              ^
+* checking contents of 'data' directory ... OK
+* checking data for non-ASCII characters ... WARNING
+  Warning: found non-ASCII string(s)
+  'Acanthiophilus kvhleri' in object 'tsn'
+  'Acrotaeniostola hvnei' in object 'tsn'
+  'Carpophthoromyia f|lleborni' in object 'tsn'
+  'Euribia hvnei' in object 'tsn'
+  'Ovophis monticola zay|ensis' in object 'tsn'
+  'Pediculus mjvbergi' in object 'tsn'
+  'Phascolosoma sch|ttei' in object 'tsn'
+  'Trypeta schdfferi' in object 'tsn'
+* checking data for ASCII and uncompressed saves ... NOTE
+  
+  Note: significantly better compression could be obtained
+        by using R CMD build --resave-data
+                    old_size new_size compress
+  balticBathy.RData    7.3Mb    3.9Mb    bzip2
+  europa.RData         1.1Mb    493Kb       xz
+  northBathy.RData     1.1Mb    552Kb    bzip2
+  nseaBathy.RData      1.6Mb    843Kb    bzip2
+  nwestBathy.RData    11.0Mb    5.2Mb    bzip2
+  southBathy.RData     1.2Mb    627Kb    bzip2
+  swestBathy.RData     5.6Mb    2.7Mb    bzip2
+  tsn.RData            5.1Mb    2.9Mb       xz
+* checking examples ... ERROR
+Running examples in 'acousaR-Ex.R' failed
+The error most likely occurred in:
+
+> ### Name: acousaR-package
+> ### Title: What the package does (short line) ~~ package title ~~
+> ### Aliases: acousaR-package acousaR
+> ### Keywords: package
+> 
+> ### ** Examples
+> 
+> ~~ simple examples of the most important functions ~~
+Error: unexpected symbol in "~~ simple examples"
+Execution halted
