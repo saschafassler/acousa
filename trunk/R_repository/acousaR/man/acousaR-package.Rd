@@ -4,11 +4,10 @@
 \docType{package}
 \title{
 What the package does (short line)
-~~ package title ~~
+Analysis of acoustic survey data in R
 }
 \description{
-More about what it does (maybe more than one line)
-~~ A concise (1-5 lines) description of the package ~~
+The International Council for the Exploration of the Sea runs various acoustic surveys that cover the Baltic Sea, Skagerrak, Kattegat, North Sea, English Channel, Celtic Sea, Irish Sea, Bay of Biscay and the eastern Atlantic from the Shetlands to Gibraltar. This library enables the data to be analyzed in R. 
 }
 \details{
 \tabular{ll}{
@@ -18,23 +17,20 @@ Version: \tab 1.0\cr
 Date: \tab 2012-03-19\cr
 License: \tab What license is it under?\cr
 }
-~~ An overview of how to use the package, including the most important functions ~~
+Run the package using the ACOUsticSurveyAnalysis.r script
 }
 \author{
-Who wrote it
-
-Maintainer: Who to complain to <yourfault@somewhere.net>
-~~ The author and/or maintainer of the package ~~
+Sascha Fässler
+Maintainer: Sascha Fassler <sascha.fassler@wur.nl>
 }
 \references{
-~~ Literature or other references for background information ~~
+Simmonds, E.J., MacLennan, D.N. (2005). Fisheries acoustics: theory and practice, 2nd edition. Blackwell Publishing, Oxford.
 }
-~~ Optionally other standard keywords, one per line, from file KEYWORDS in the R documentation directory ~~
-\keyword{ package }
+\keyword{ 
+acoustic surveys
+ICES }
 \seealso{
-~~ Optional links to other man pages, e.g. ~~
-~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
+\code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
 }
 \examples{
-~~ simple examples of the most important functions ~~
 }
