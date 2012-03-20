@@ -3,7 +3,6 @@
 \alias{acousaR}
 \docType{package}
 \title{
-What the package does (short line)
 Analysis of acoustic survey data in R
 }
 \description{
@@ -15,12 +14,12 @@ Package: \tab acousaR\cr
 Type: \tab Package\cr
 Version: \tab 1.0\cr
 Date: \tab 2012-03-19\cr
-License: \tab What license is it under?\cr
+License: \tab GNU GPL v2\cr
 }
 Run the package using the ACOUsticSurveyAnalysis.r script
 }
 \author{
-Sascha Fässler
+Sascha Fassler
 Maintainer: Sascha Fassler <sascha.fassler@wur.nl>
 }
 \references{
