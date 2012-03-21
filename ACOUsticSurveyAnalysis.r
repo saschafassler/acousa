@@ -1,24 +1,40 @@
-### analyse acoustic survey data
+################################################################################
+#
+# ACOUstic Survey Analysis
+#
+# Date: 2012-03-21 20:23:43 CET
+#
+# Author: Sascha Fässler
+#
+# Calculates abundance and biomass from acoustic 
+# survey data based on ICES rectangles 
+#
+# Developed with:
+#   - R version 2.14.2
+#   - acousaR 1.0
+#
+################################################################################
 
+### ============================================================================
 ### load required packages
+### ============================================================================
     rm(list=ls())
     require(tcltk)
     require(plyr)
     require(xlsReadWrite)
+    require(acousaR)
 
+### ============================================================================
 ### define directories
-    AsaR_dir <- choose.dir('D:/Sascha/Projects/AsaR/',"find AsaR working directory")
-    scripts_folder <- paste(AsaR_dir,"\\scripts\\",sep="")
-    setwd(scripts_folder)
+### ============================================================================
+    path <- file.path(".")
+    setwd(path)
 
-    analysis_folder <- choose.dir('D:/Sascha/Projects/AsaR/analysis',"find survey 'analysis' folder") #this eventually needs to be the survey "input data" folder
-    survey_folder <- list.files(analysis_folder)
-    input_folder <- paste(analysis_folder,"\\",survey_folder,"\\input files\\",sep="")
-    output_folder <- paste(analysis_folder,"\\",survey_folder,"\\results\\",sep="")
+    data.dir          <-  file.path(".","data")
+    output.dir        <-  file.path(".","results")
     
 ### load AsaRaw file file
-    source("readAsaRaw.r")
-    acoustic_data <- readAsaRaw(input_folder,strsplit(survey_folder," ")[[1]][1],as.numeric(strsplit(survey_folder," ")[[1]][2]))
+    acoustic_data <- readACOUraw(input_folder,strsplit(survey_folder," ")[[1]][1],as.numeric(strsplit(survey_folder," ")[[1]][2]))
     surv_yr <- unique(acoustic_data$year)
     surv_cd <- as.character(unique(acoustic_data$cruise))    
 

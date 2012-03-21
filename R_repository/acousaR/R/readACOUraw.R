@@ -1,4 +1,4 @@
-readAsaRaw <-
+readACOUraw <-
 function(directory,cruise,surv_yr){
 
 ### function to load, check and format raw AsaR survey data file
