@@ -25,16 +25,21 @@
     require(acousaR)
 
 ### ============================================================================
+### setup survey
+### ============================================================================
+    survey <- "HERAS"
+    year <- 2011
+
+### ============================================================================
 ### define directories
 ### ============================================================================
     path <- file.path(".")
     setwd(path)
-
     data.dir          <-  file.path(".","data")
     output.dir        <-  file.path(".","results")
     
 ### load AsaRaw file file
-    acoustic_data <- readACOUraw(input_folder,strsplit(survey_folder," ")[[1]][1],as.numeric(strsplit(survey_folder," ")[[1]][2]))
+    acoustic_data <- readACOUraw(data.dir,survey,year)
     surv_yr <- unique(acoustic_data$year)
     surv_cd <- as.character(unique(acoustic_data$cruise))    
 

@@ -1,7 +1,7 @@
 readACOUraw <-
 function(directory,cruise,surv_yr){
 
-### function to load, check and format raw AsaR survey data file
+### function to load, check and format raw 'acousa' survey data file
 ###
 ### input: -directory containing data: file with column fields: "country","vessel","cruise","log","year","month","day","hour","min","sec","declat","declon","logint","freq","Sv_thresh","interval","spp1","spp2",...
 ###         examp: NL,TRIDENS,BWHTS,3428,2013,4,5,20,15,52.7594,-9.4525,1,38,-70,1,WHB,MAK,PEA,PLA,...
