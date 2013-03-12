@@ -35,8 +35,8 @@
 ### ============================================================================
     path <- file.path(".")
     setwd(path)
-    data.dir          <-  file.path(".","data")
-    output.dir        <-  file.path(".","results")
+    data.dir          <-  file.path(".","input data")
+    output.dir        <-  file.path(".","output")
     
 ### load AsaRaw file file
     acoustic_data <- readACOUraw(data.dir,survey,year)
