@@ -33,10 +33,10 @@
 ### ============================================================================
 ### define directories
 ### ============================================================================
-    path <- file.path(".")
+    path <- choose.dir(".","find working directory")
     setwd(path)
-    data.dir          <-  file.path(".","input data")
-    output.dir        <-  file.path(".","output")
+    data.dir          <-  file.path(".","input files")
+    output.dir        <-  file.path(".","results")
     
 ### load AsaRaw file file
     acoustic_data <- readACOUraw(data.dir,survey,year)
