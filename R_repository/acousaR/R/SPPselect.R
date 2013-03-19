@@ -1,5 +1,4 @@
-SPPselect <-
-function(acoustic_data){
+SPPselect <- function(acoustic_data){
 
 ### function to select species for further calculations
 ###

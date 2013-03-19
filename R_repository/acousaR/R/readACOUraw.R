@@ -1,5 +1,4 @@
-readACOUraw <-
-function(directory,cruise,surv_yr){
+readACOUraw <- function(directory,cruise,surv_yr){
 
 ### function to load, check and format raw acoustic survey data files in PGNAPES database format 
 ###
@@ -23,6 +22,9 @@ function(directory,cruise,surv_yr){
     DistICESbott <- 60*(sqrt((cos(as.numeric(substr(ACOUraw$ICES,1,2))*pi/180))^2))
     DistICEStop <- 60*(sqrt((cos((as.numeric(substr(ACOUraw$ICES,1,2))+0.5)*pi/180))^2))
     ACOUraw$ICEStotalarea <- 60*(0.5)*((DistICESbott+DistICEStop)/2) #ICES surface area (nm^2)
+    
+### show identified regions and/or species
+    tkmessageBox(title="Classes",message=paste("The following species/echo trace classes were found in the acoustic data file: ",paste(levels(ACOUraw$Species),collapse=" / ")))
 
 ACOUraw
 
