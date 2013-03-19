@@ -1,5 +1,4 @@
-nBYstrataR <-
-function(SA_table,spp) {
+nBYstrata <- function(SA_table,spp) {
 
 ### function to calculate abundance by ICES rectangle and stratum for the selected species
 ###
@@ -10,7 +9,7 @@ function(SA_table,spp) {
     library(pgirmess)
 
 ### load catch length-frequency data
-    catch_data <- read.csv(paste(input_folder,"catchLF_",surv_cd,"_",surv_yr,"_",spp,".csv",sep=""),header=TRUE)
+    catch_data <- read.csv(paste(data.dir,"catchLF_",surv_cd,"_",surv_yr,"_",spp,".csv",sep=""),header=TRUE)
     catch_data[is.na(catch_data)] <- 0
 
 ### associate hauls with strata
