@@ -28,15 +28,15 @@
 ### setup survey
 ### ============================================================================
     survey <- "HERAS"
-    year <- 2011
+    year <- 2010
 
 ### ============================================================================
 ### define directories
 ### ============================================================================
-    path <- choose.dir(".","find working directory")
+    path <- choose.dir(".","find survey working directory")
     setwd(path)
-    data.dir          <-  file.path(".","input files")
-    output.dir        <-  file.path(".","results")
+    data.dir          <-  file.path(".",paste(as.character(survey)," ",as.character(year),sep=""),"input files")
+    output.dir        <-  file.path(".",paste(as.character(survey)," ",as.character(year),sep=""),"results")
     
 ### load AsaRaw file file
     acoustic_data <- readACOUraw(data.dir,survey,year)
