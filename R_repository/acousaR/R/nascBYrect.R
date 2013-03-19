@@ -10,7 +10,7 @@ nascBYrect <- function(acoustic_data,spp) {
     colnames(mileage_list) <- c("ICES","EDSUperICES","MeanNASC")
     mileage_list$ICES <- levels(as.factor(acoustic_data$ICES))
     for (recta in 1:nrow(mileage_list)){
-    mileage_list$EDSUperICES[recta] <- nrow(acoustic_data[acoustic_data$ICES==mileage_list$ICES[recta],]) #nr of EDSU's
+    mileage_list$EDSUperICES[recta] <- nrow(acoustic_data[acoustic_data$Species==spp & acoustic_data$ICES==mileage_list$ICES[recta],]) #nr of EDSU's per species
     mileage_list$MeanNASC[recta] <- sum(acoustic_data[which(acoustic_data$Species==spp & acoustic_data$ICES==mileage_list$ICES[recta]),]$SA)/mileage_list$EDSUperICES[recta]
     }
     acoustic_data <- merge(acoustic_data,mileage_list,by=c("ICES"))
