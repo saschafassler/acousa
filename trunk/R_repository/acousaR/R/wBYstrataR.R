@@ -1,5 +1,4 @@
-wBYstrataR <-
-function(SA_table,spp) {
+wBYstrata <- function(SA_table,spp) {
 
 ### function to calculate biomass by ICES rectangle and stratum for the selected species
 ###
