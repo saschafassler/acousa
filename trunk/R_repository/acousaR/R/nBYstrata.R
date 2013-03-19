@@ -9,7 +9,7 @@ nBYstrata <- function(SA_table,spp) {
     library(pgirmess)
 
 ### load catch length-frequency data
-    catch_data <- read.csv(paste(data.dir,"catchLF_",surv_cd,"_",surv_yr,"_",spp,".csv",sep=""),header=TRUE)
+    catch_data <- read.csv(paste(data.dir,"/catchLF_",surv_cd,"_",surv_yr,"_",spp,".csv",sep=""),header=TRUE)
     catch_data[is.na(catch_data)] <- 0
 
 ### associate hauls with strata
