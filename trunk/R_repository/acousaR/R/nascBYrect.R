@@ -1,5 +1,4 @@
-nascBYrect <-
-function(acoustic_data,spp) {
+nascBYrect <- function(acoustic_data,spp) {
 
 ### function to create NASC by ICES rectangle for the selected species
 ###
@@ -8,11 +7,11 @@ function(acoustic_data,spp) {
 
 ### calculate nr of EDSUs and average SA per ICES rectangle
     mileage_list <- as.data.frame(matrix(0,length(levels(as.factor(acoustic_data$ICES))),3))
-    colnames(mileage_list) <- c("ICES","EDSU_per_ICES","Mean_NASC")
+    colnames(mileage_list) <- c("ICES","EDSUperICES","MeanNASC")
     mileage_list$ICES <- levels(as.factor(acoustic_data$ICES))
     for (recta in 1:nrow(mileage_list)){
-    mileage_list$EDSU_per_ICES[recta] <- nrow(acoustic_data[acoustic_data$ICES==mileage_list$ICES[recta],]) #nr of EDSU's
-    mileage_list$Mean_NASC[recta] <- sum(acoustic_data[paste(spp)][acoustic_data$ICES==mileage_list$ICES[recta],])/mileage_list$EDSU_per_ICES[recta]
+    mileage_list$EDSUperICES[recta] <- nrow(acoustic_data[acoustic_data$ICES==mileage_list$ICES[recta],]) #nr of EDSU's
+    mileage_list$MeanNASC[recta] <- sum(acoustic_data[which(acoustic_data$Species==spp & acoustic_data$ICES==mileage_list$ICES[recta]),]$SA)/mileage_list$EDSUperICES[recta]
     }
     acoustic_data <- merge(acoustic_data,mileage_list,by=c("ICES"))
 
@@ -24,7 +23,7 @@ function(acoustic_data,spp) {
         icon = "question", type = "yesno", default = "yes")
     answer <- tclvalue(y_n)
     if(answer=="yes")
-    fileName <- tclvalue(tkgetSaveFile(initialfile = paste(output_folder,"SA_table_",spp,".xls",sep=""),
+    fileName <- tclvalue(tkgetSaveFile(initialfile = paste(output.dir,"/SA_table_",spp,".xls",sep=""),
         filetypes = "{{Excel Files} {.xls}}"))
     if(answer=="no")
     fileName<-""
@@ -32,7 +31,7 @@ function(acoustic_data,spp) {
         tkmessageBox(message = "The SA-table was not saved!")
     } else {
         tkmessageBox(message = paste("The file saved was", fileName))
-        write.xls(mileage_list,file=paste(output_folder,"SA_table_",spp,".xls",sep=""),colNames=TRUE,rowNames=NA,sheet=1)
+        write.xls(mileage_list,file=paste(output.dir,"/SA_table_",spp,".xls",sep=""),colNames=TRUE,rowNames=NA,sheet=1)
     }
     
     mileage_list
