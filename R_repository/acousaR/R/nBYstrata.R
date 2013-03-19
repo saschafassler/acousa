@@ -35,7 +35,7 @@ nBYstrata <- function(SA_table,spp) {
 ### get mean L-F per strata
     
     #** TEMPORARY SOLUTION: DEFINING THRESHOLD LEVEL OF FISH NR **#
-    thresh <- 15 #number of fish in haul required to be representative
+    thresh <- 20 #number of fish in haul required to be representative
     for (strat in 1:length(levels(haul_pos$strata))){
     stratum <- letter[strat]
     strata_hauls <- eval(as.name(paste("hauls_",stratum,sep="")))
@@ -135,6 +135,7 @@ nBYstrata <- function(SA_table,spp) {
     for (strat in 1:length(levels(haul_pos$strata))){ 
     stratum <- letter[strat]
     strata_samples <- sample_data[which(sample_data$haul%in%as.integer(eval(as.name(paste("selected_hauls_",stratum,sep=""))))),]
+    strata_samples$length <- floor((strata_samples$length*10*2+0.5)/10)/2 #use floor of sample lengths
     
     age_distr <- matrix(0,nrow(strata_samples),length(ages))
     rownames(age_distr) <- strata_samples$length
