@@ -23,6 +23,15 @@
     require(plyr)
     require(xlsReadWrite)
     require(acousaR)
+    
+    sourceDir <- function(path, trace = TRUE, ...) {
+    for (nm in list.files(path, pattern = "\\.[RrSsQq]$")) {
+       if(trace) cat(nm,":")           
+       source(file.path(path, nm), ...)
+       if(trace) cat("\n")
+       }
+    }
+    sourceDir("D:/Sascha/Projects/AsaR/acousa/acousa/R_repository/acousaR/R/")
 
 ### ============================================================================
 ### setup survey
