@@ -9,13 +9,15 @@ readACOUraw <- function(directory,cruise,surv_yr){
 ### load required packages
     require(tcltk)
     require(plyr)
+    require(data.table)
 
 ### load and merge acoustic files 
     acoustic_data <- read.csv(paste(data.dir,(list.files(path = data.dir, pattern = "Acoustic.csv", ignore.case = FALSE)),sep="/"))
     acousticvalues_data <- read.csv(paste(data.dir,(list.files(path = data.dir, pattern = "AcousticValues.csv", ignore.case = FALSE)),sep="/"))
     ACOUraw <- merge(acoustic_data,acousticvalues_data,by=(names(acoustic_data)[1:7]),sort=TRUE)
-    ACOUraw <- ACOUraw[order(ACOUraw$Interval),]
-    ACOUraw <- subset(ACOUraw, select = -c(Frequency,Sv_threshold,Process_ID,ChUppDepth,ChLowDepth) )
+    #ACOUraw <- ACOUraw[order(ACOUraw$Interval),]
+    ACOUraw <- data.table(ACOUraw)
+    ACOUraw <- subset(ACOUraw, select = -c(FREQUENCY,SV_THRESHOLD,CHUPPDEPTH,CHLOWDEPTH) )
 
 ### assign ICES rectangles and calculate areas
     ACOUraw$ICES <- ICESrectangle(ACOUraw,"AcLon","AcLat")
