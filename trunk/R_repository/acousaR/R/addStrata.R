@@ -30,7 +30,7 @@ addStrata <- function(spp,surv_yr) {
         if(strata[r,c]!=""){rect[pos_rect,3] <- coastFact[r,c]}
       }
     }
-    colnames(rect) <- c("ICES","strata","coastfact")
+    colnames(rect) <- c("ICES","STRATA","COASTFACT")
 
     as.data.frame(rect)
     
