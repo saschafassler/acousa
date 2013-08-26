@@ -7,11 +7,11 @@ nascBYrect <- function(acoustic_data,spp) {
 
 ### calculate nr of EDSUs and average SA per ICES rectangle
     mileage_list <- as.data.frame(matrix(0,length(levels(as.factor(acoustic_data$ICES))),3))
-    colnames(mileage_list) <- c("ICES","EDSUperICES","MeanNASC")
+    colnames(mileage_list) <- c("ICES","EDSU_PER_ICES","MEAN_NASC")
     mileage_list$ICES <- levels(as.factor(acoustic_data$ICES))
     for (recta in 1:nrow(mileage_list)){
-    mileage_list$EDSUperICES[recta] <- nrow(acoustic_data[acoustic_data$Species==spp & acoustic_data$ICES==mileage_list$ICES[recta],]) #nr of EDSU's per species
-    mileage_list$MeanNASC[recta] <- sum(acoustic_data[which(acoustic_data$Species==spp & acoustic_data$ICES==mileage_list$ICES[recta]),]$SA)/mileage_list$EDSUperICES[recta]
+    mileage_list$EDSU_PER_ICES[recta] <- nrow(acoustic_data[acoustic_data$SPECIES==spp & acoustic_data$ICES==mileage_list$ICES[recta],]) #nr of EDSU's per species
+    mileage_list$MEAN_NASC[recta] <- sum(acoustic_data[which(acoustic_data$SPECIES==spp & acoustic_data$ICES==mileage_list$ICES[recta]),]$SA)/mileage_list$EDSU_PER_ICES[recta]
     }
     acoustic_data <- merge(acoustic_data,mileage_list,by=c("ICES"))
 
