@@ -9,13 +9,15 @@ nBYstrata <- function(SA_table,spp) {
     library(pgirmess)
 
 ### load catch length-frequency data
-    catch_data <- read.csv(paste(data.dir,"/catchLF_",surv_cd,"_",surv_yr,"_",spp,".csv",sep=""),header=TRUE)
+    catch_data <- read.csv(paste(data.dir,"/catchLF_",survey,"_",surv_yr,"_",spp,".csv",sep=""),header=TRUE)
     catch_data[is.na(catch_data)] <- 0
 
 ### associate hauls with strata
-    haul_pos <- read.csv(paste(input_folder,"trawl_",surv_cd,"_",surv_yr,".csv",sep=""),header=TRUE)
-#    haul_pos$lat <- trunc(haul_pos$lat)+(haul_pos$lat-trunc(haul_pos$lat))/0.6 # convert positions from degrees into decimal
-#    haul_pos$lon <- trunc(haul_pos$lon)+(haul_pos$lon-trunc(haul_pos$lon))/0.6 # convert positions from degrees into decimal      
+    haul_pos <- read.csv(paste(data.dir,"/trawl_",survey,"_",surv_yr,".csv",sep=""),header=TRUE)
+    if(max(abs(haul_pos$lat)-floor(abs(haul_pos$lat)))<0.6){
+    haul_pos$lat <- trunc(haul_pos$lat)+(haul_pos$lat-trunc(haul_pos$lat))/0.6} # convert positions from degrees into decimal if necessary
+    if(max(abs(haul_pos$lon)-floor(abs(haul_pos$lon)))<0.6){
+    haul_pos$lon <- trunc(haul_pos$lon)+(haul_pos$lon-trunc(haul_pos$lon))/0.6} # convert positions from degrees into decimal if necessary
     orig_lat <- 35.5
     orig_lon <- -50
     letter <- c("A","B","C","D","E","F","G","H")
@@ -26,9 +28,9 @@ nBYstrata <- function(SA_table,spp) {
     haul_pos <- merge(haul_pos,rectangles)
     
 ### select haul information per strata
-    for (strat in 1:length(levels(haul_pos$strata))){
+    for (strat in 1:length(levels(haul_pos$STRATA))){
     stratum <- letter[strat]
-    hauls <- haul_pos$haul[which(haul_pos$strata == stratum)]
+    hauls <- haul_pos$haul[which(haul_pos$STRATA == stratum)]
     strat_name <- paste("hauls_",stratum,sep="")
     assign(strat_name,hauls)}
 
@@ -36,11 +38,12 @@ nBYstrata <- function(SA_table,spp) {
     
     #** TEMPORARY SOLUTION: DEFINING THRESHOLD LEVEL OF FISH NR **#
     thresh <- 20 #number of fish in haul required to be representative
-    for (strat in 1:length(levels(haul_pos$strata))){
+    for (strat in 1:length(levels(haul_pos$STRATA))){
     stratum <- letter[strat]
     strata_hauls <- eval(as.name(paste("hauls_",stratum,sep="")))
     
     # window displaying strata hauls
+    ### ... UNDER DEVELOPMENT ...
     strata_hauls_LF_all <- as.data.frame(catch_data[,strata_hauls+1])
     names(strata_hauls_LF_all) <- as.character(c(strata_hauls))
     strata_hauls_sums_all <- as.data.frame(colSums(strata_hauls_LF_all))[,1]
@@ -87,16 +90,16 @@ nBYstrata <- function(SA_table,spp) {
     b_20 <- as.numeric(ReturnVal1)
 
     length_increment <- (catch_data[2,1]-catch_data[1,1])/2
-    sbs_length <- 10^((20*log10(catch_data[,1]+length_increment)+b_20)/10)*4*pi  # according to Bram
+    sbs_length <- 10^((20*log10(catch_data[,1]+length_increment)+b_20)/10)*4*pi  # according to Bram Couperus
     
     strata_numbers_all <- data.frame("ICES"=character(0),"EDSU_per_ICES"=numeric(0),"Mean_NASC"=numeric(0),"strata"=character(0),"coastfact"=numeric(0),"ICES_surf"=numeric(0),"spp_nr_pernm2"=numeric(0),"mills_per_ICES"=numeric(0)) 
-    for (strat in 1:length(levels(haul_pos$strata))){                                    
+    for (strat in 1:length(levels(haul_pos$STRATA))){                                    
     stratum <- letter[strat]
     stratum_mean_LF <- eval(as.name(paste("mean_hauls_LF_",stratum,sep="")))
     nr_sbs <- sbs_length*stratum_mean_LF
     mean_strat_sbs <- sum(nr_sbs)/100  # according to Bram
     strata_SA_a <- merge(SA_table,rectangles)
-    strata_SA_a$ICES_surf <- unique(acoustic_data[,c("ICES","ICES_surf")])[,2]
+    strata_SA_a$ICES_surf <- unique(acoustic_data[,c("ICES","ICESsurfarea")])[,2]
     strata_SA <- strata_SA_a[which(strata_SA_a$strata==stratum),] 
 
     strata_SA$spp_nr_pernm2 <- strata_SA$Mean_NASC/(mean_strat_sbs*1000) # density 1000 fish * nm-2
@@ -116,15 +119,15 @@ nBYstrata <- function(SA_table,spp) {
 ### calculate fish numbers at age per stratum
   
 ### load fish samples data
-    if(paste("samples_",surv_cd,"_",surv_yr,"_",spp,".csv",sep="") %in% list.files(input_folder))
+    if(paste("samples_",survey,"_",surv_yr,"_",spp,".csv",sep="") %in% list.files(data.dir))
       {tkmessageBox(message = paste("sample data file for ",spp," was found successfully!",sep=""),icon="info",type="ok")} 
-    if(!paste("samples_",surv_cd,"_",surv_yr,"_",spp,".csv",sep="") %in% list.files(input_folder))
+    if(!paste("samples_",survey,"_",surv_yr,"_",spp,".csv",sep="") %in% list.files(data.dir))
       {tkmessageBox(message = paste("No sample data file for ",spp," was found!",sep=""),icon="warning",type="ok")}
 #      if(!paste("samples_",surv_cd,"_",surv_yr,"_",spp,".csv",sep="") %in% list.files(input_folder))
 #        {source(paste(AsaR_dir,"\\scripts\\numsPERstrata.R",sep=""))}
     #*** need alternative action if no file available ***#
     ### ... UNDER DEVELOPMENT ...    
-    sample_data <- read.csv(paste(input_folder,"samples_",surv_cd,"_",surv_yr,"_",spp,".csv",sep=""),header=TRUE)
+    sample_data <- read.csv(paste(data.dir,"/samples_",survey,"_",surv_yr,"_",spp,".csv",sep=""),header=TRUE)
          
 ### generate age-length-maturity table per strata      
     ages <- surv_yr - c(rep(1:6,each=2),seq(7,9),10)
@@ -132,7 +135,7 @@ nBYstrata <- function(SA_table,spp) {
     char_ages <- paste(ages,subs,sep="") 
 
 ### generate age-length matrix per strata        
-    for (strat in 1:length(levels(haul_pos$strata))){ 
+    for (strat in 1:length(levels(haul_pos$STRATA))){ 
     stratum <- letter[strat]
     strata_samples <- sample_data[which(sample_data$haul%in%as.integer(eval(as.name(paste("selected_hauls_",stratum,sep=""))))),]
     strata_samples$length <- floor((strata_samples$length*10*2+0.5)/10)/2 #use floor of sample lengths
@@ -160,7 +163,7 @@ nBYstrata <- function(SA_table,spp) {
     assign(strata_length_samples_name,age_distr)
     }  
  
-    for (strat in 1:length(levels(haul_pos$strata))){ 
+    for (strat in 1:length(levels(haul_pos$STRATA))){ 
     stratum <- letter[strat]
     strata_age_samples <- eval(as.name(paste("strata_length_samples_",stratum,sep="")))
     strata_numbers <- eval(as.name(paste("strata_numbers_",stratum,sep="")))
