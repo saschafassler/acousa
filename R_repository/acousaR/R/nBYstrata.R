@@ -92,17 +92,17 @@ nBYstrata <- function(SA_table,spp) {
     length_increment <- (catch_data[2,1]-catch_data[1,1])/2
     sbs_length <- 10^((20*log10(catch_data[,1]+length_increment)+b_20)/10)*4*pi  # according to Bram Couperus
     
-    strata_numbers_all <- data.frame("ICES"=character(0),"EDSU_per_ICES"=numeric(0),"Mean_NASC"=numeric(0),"strata"=character(0),"coastfact"=numeric(0),"ICES_surf"=numeric(0),"spp_nr_pernm2"=numeric(0),"mills_per_ICES"=numeric(0)) 
+    strata_numbers_all <- data.frame("ICES"=character(0),"EDSU_PER_ICES"=numeric(0),"MEAN_NASC"=numeric(0),"STRATA"=character(0),"COASTFACT"=numeric(0),"ICES_surf"=numeric(0),"spp_nr_pernm2"=numeric(0),"mills_per_ICES"=numeric(0)) 
     for (strat in 1:length(levels(haul_pos$STRATA))){                                    
     stratum <- letter[strat]
     stratum_mean_LF <- eval(as.name(paste("mean_hauls_LF_",stratum,sep="")))
     nr_sbs <- sbs_length*stratum_mean_LF
-    mean_strat_sbs <- sum(nr_sbs)/100  # according to Bram
+    mean_strat_sbs <- sum(nr_sbs)/100  # according to Bram Couperus
     strata_SA_a <- merge(SA_table,rectangles)
     strata_SA_a$ICES_surf <- unique(acoustic_data[,c("ICES","ICESsurfarea")])[,2]
-    strata_SA <- strata_SA_a[which(strata_SA_a$strata==stratum),] 
+    strata_SA <- strata_SA_a[which(strata_SA_a$STRATA==stratum),] 
 
-    strata_SA$spp_nr_pernm2 <- strata_SA$Mean_NASC/(mean_strat_sbs*1000) # density 1000 fish * nm-2
+    strata_SA$spp_nr_pernm2 <- strata_SA$MEAN_NASC/(mean_strat_sbs*1000) # density 1000 fish * nm-2
     strata_SA$mills_per_ICES <- strata_SA$spp_nr_pernm2 * strata_SA$ICES_surf/1000
     strat_name <- paste("strata_numbers_",stratum,sep="")
     assign(strat_name,strata_SA)
@@ -190,4 +190,3 @@ nBYstrata <- function(SA_table,spp) {
     }
     
 }
-
