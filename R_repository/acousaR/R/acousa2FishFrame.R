@@ -1,4 +1,4 @@
-AsaR2FishFrame <-
+acousa2FishFrame <-
 function(strata_numbers_all,acoustic_data,spp)
 
 ### function to convert AsaR output into FishFrame format for the selected species
