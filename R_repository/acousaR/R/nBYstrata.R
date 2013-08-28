@@ -114,8 +114,11 @@ nBYstrata <- function(SA_table,spp) {
     rownames(nums_at_length) <- catch_data[,1]
     colnames(nums_at_length) <- "numbers (millions)"
     assign(nums_at_length_name,nums_at_length)
-    } 
-  
+    
+    }
+    
+    strata_numbers_all <- list(strata_numbers_all)    
+    
 ### calculate fish numbers at age per stratum
   
 ### load fish samples data
@@ -163,6 +166,8 @@ nBYstrata <- function(SA_table,spp) {
     assign(strata_length_samples_name,age_distr)
     }  
  
+    numbers <- list()
+ 
     for (strat in 1:length(levels(haul_pos$STRATA))){ 
     stratum <- letter[strat]
     strata_age_samples <- eval(as.name(paste("strata_length_samples_",stratum,sep="")))
@@ -184,9 +189,15 @@ nBYstrata <- function(SA_table,spp) {
       nums_at_age[,age] <- age_matrix[,age]/(rowSums(age_matrix)+0.0000000000001)*(sum(strata_numbers$mills_per_ICES)*mean_hauls_LF/100)
       rownames(nums_at_age) <- lngs
       colnames(nums_at_age) <- char_ages
-      nums_at_age_name <- paste("nums_at_age_",stratum,sep="")
-      assign(nums_at_age_name,nums_at_age)
-    }
+      #nums_at_age_name <- paste("nums_at_age_",stratum,sep="")
+      #assign(nums_at_age_name,nums_at_age)
+    
     }
     
+    numbers[strat] <- list(nums_at_age) 
+                                          
+    }
+
+    list(strata_numbers_all, numbers)
+
 }
