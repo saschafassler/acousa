@@ -103,6 +103,7 @@ wBYstrata <- function(SA_table,spp,numbers) {
     }
 
 ### calculate biomass per stratum and rectangle
+    weights <- list()
     strata_numbers_all <- data.frame("ICES"=character(0),"EDSU_PER_ICES"=numeric(0),"MEAN_NASC"=numeric(0),"STRATA"=character(0),"COASTFACT"=numeric(0),"ICES_surf"=numeric(0),"spp_nr_pernm2"=numeric(0),"mills_per_ICES"=numeric(0),"ttons_per_ICES"=numeric(0)) 
     for (strat in 1:length(levels(haul_pos$STRATA))){
       stratum <- letter[strat]
@@ -135,7 +136,9 @@ wBYstrata <- function(SA_table,spp,numbers) {
         colnames(weight_at_age) <- char_ages
         weight_at_age_name <- paste("weight_at_age_",stratum,sep="")
         assign(weight_at_age_name,weight_at_age)
+      
       }
+      
       for(rec in 1:nrow(strata_nums)){
       ton_sum <- numeric(ncol(nums_at_age))
       for(colum in 1:ncol(nums_at_age)){
@@ -148,7 +151,12 @@ wBYstrata <- function(SA_table,spp,numbers) {
       assign(strata_nums_name,strata_nums)
       
       strata_numbers_all <- rbind(strata_numbers_all,strata_nums)
+
+    weights[strat] <- list(weight_at_age)
+
     }
+
+    list(strata_numbers_all, weights)
 
 }
 
