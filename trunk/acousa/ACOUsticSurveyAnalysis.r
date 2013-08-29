@@ -24,15 +24,15 @@
     require(xlsReadWrite)
     require(acousaR)
     
-#    ###temp###
-#    sourceDir <- function(path, trace = TRUE, ...) {
-#    for (nm in list.files(path, pattern = "\\.[RrSsQq]$")) {
-#       if(trace) cat(nm,":")           
-#       source(file.path(path, nm), ...)
-#       if(trace) cat("\n")
-#       }
-#    }
-#    sourceDir("D:/Sascha/Projects/AsaR/acousa/acousa/R_repository/acousaR/R/") #to contain acousaR library...
+    ###temp###
+    sourceDir <- function(path, trace = TRUE, ...) {
+    for (nm in list.files(path, pattern = "\\.[RrSsQq]$")) {
+       if(trace) cat(nm,":")           
+       source(file.path(path, nm), ...)
+       if(trace) cat("\n")
+       }
+    }
+    sourceDir("D:/Sascha/Projects/AsaR/acousa/acousa/R_repository/acousaR/R/") #to contain acousaR library...
 
 ### ============================================================================
 ### setup survey
@@ -76,4 +76,4 @@
     
 ### produce FishFrame XML files
     source(paste(AsaR_dir,"\\scripts\\AsaR2FishFrame.r",sep=""))
-    AsaR2FishFrame(strata_numbers_all,acoustic_data,spp)
+    AsaR2FishFrame(strata_numbers_all,acoustic_data,spp,numbers)
