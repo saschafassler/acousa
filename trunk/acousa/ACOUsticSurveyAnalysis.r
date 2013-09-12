@@ -23,16 +23,17 @@
     require(plyr)
     require(xlsReadWrite)
     require(acousaR)
+    require("RODBC")
     
-    ###temp###
-    sourceDir <- function(path, trace = TRUE, ...) {
-    for (nm in list.files(path, pattern = "\\.[RrSsQq]$")) {
-       if(trace) cat(nm,":")           
-       source(file.path(path, nm), ...)
-       if(trace) cat("\n")
-       }
-    }
-    sourceDir("D:/Sascha/Projects/AsaR/acousa/acousa/R_repository/acousaR/R/") #to contain acousaR library...
+#    ###temp###
+#    sourceDir <- function(path, trace = TRUE, ...) {
+#    for (nm in list.files(path, pattern = "\\.[RrSsQq]$")) {
+#       if(trace) cat(nm,":")           
+#       source(file.path(path, nm), ...)
+#       if(trace) cat("\n")
+#       }
+#    }
+#    sourceDir("D:/Sascha/Projects/AsaR/acousa/acousa/R_repository/acousaR/R/") #to contain acousaR library...
 
 ### ============================================================================
 ### setup survey
@@ -51,7 +52,13 @@
 ### load acoustic data file
     acoustic_data <- readACOUraw(data.dir,survey,year)
     surv_yr <- unique(acoustic_data$YEAR)
-    surv_cd <- as.character(unique(acoustic_data$CRUISE))    
+    surv_cd <- as.character(unique(acoustic_data$CRUISE))
+    
+### load biolofical data from IMARES database
+    #Define needed variables 
+    user<-"..."
+    pass<-"..."
+    billie.ex(user,pass,surv_cd,surv_yr)
 
 ################################################################################################################################
 ################################################################################################################################
