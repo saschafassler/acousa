@@ -54,7 +54,7 @@
     surv_yr <- unique(acoustic_data$YEAR)
     surv_cd <- as.character(unique(acoustic_data$CRUISE))
     
-### load biolofical data from IMARES database
+### load biological data from IMARES database
     #Define needed variables 
     user<-"..."
     pass<-"..."
@@ -78,7 +78,7 @@
 ### calculate NUMBERS per stratum
     numbers <- nBYstrata(SA_table,spp)
     
-### calculate BIOMASS
+### calculate BIOMASS per stratum
     weights <- wBYstrata(SA_table,spp,numbers)    
     
 ### produce FishFrame XML files
