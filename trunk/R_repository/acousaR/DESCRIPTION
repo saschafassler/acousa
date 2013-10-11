@@ -1,7 +1,7 @@
 Package: acousaR
 Type: Package
 Title: ACOUstic Survey Analysis in R
-Version: 0.1
+Version: 1.01
 Date: 2013-10-11
 Author: Sascha Fassler
 Maintainer: Sascha Fassler <sascha.fassler@wur.nl>
