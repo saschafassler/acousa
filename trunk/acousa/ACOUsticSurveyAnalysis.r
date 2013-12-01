@@ -82,5 +82,4 @@
     weights <- wBYstrata(SA_table,spp,numbers)    
     
 ### produce FishFrame XML files
-    source(paste(AsaR_dir,"\\scripts\\AsaR2FishFrame.r",sep=""))
-    AsaR2FishFrame(strata_numbers_all,acoustic_data,spp,numbers)
+    AsaR2FishFrame(as.data.frame(numbers[1][1]),acoustic_data,spp,numbers)
