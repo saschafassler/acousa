@@ -1,6 +1,6 @@
 acousa2FishFrame <- function(strata_numbers_all,acoustic_data,spp,numbers){
 
-### function to convert AsaR output into FishFrame format for the selected species
+### function to convert acousa output into FishFrame format for the selected species
 ###
 ### input: -strata numbers: data frame with species numbers by strata and ICES rectangle information
 
@@ -53,7 +53,7 @@ acousa2FishFrame <- function(strata_numbers_all,acoustic_data,spp,numbers){
 ### convert output tables into SD format (XLM)
     len <- 0
     for (strat in 1:length(levels(acoustic_data$STRATA))){     
-    stratum <- letter[strat]
+    stratum <- toupper(letters[strat])
     age_matrix <- eval(as.name(paste("age_matrix_",stratum,sep="")))
     stratmat_len <- length(which(colSums(age_matrix)>0))
     stratrec_len <- length(which(strata_numbers_all$STRATA==stratum))
