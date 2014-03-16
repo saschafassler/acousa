@@ -17,7 +17,7 @@ readACOUraw <- function(directory,cruise,surv_yr){
     ACOUraw <- merge(acoustic_data,acousticvalues_data,by=(names(acoustic_data)[1:7]),sort=TRUE)
     #ACOUraw <- ACOUraw[order(ACOUraw$Interval),]
     #ACOUraw <- data.table(ACOUraw)
-    setnames(ACOUraw,names(ACOUraw),toupper(names(ACOUraw)))
+    ACOUraw <- setNames(ACOUraw,toupper(names(ACOUraw)))
     ACOUraw <- subset(ACOUraw, select = -c(FREQUENCY,SV_THRESHOLD,CHUPPDEPTH,CHLOWDEPTH) )
 
 ### assign ICES rectangles and calculate areas
