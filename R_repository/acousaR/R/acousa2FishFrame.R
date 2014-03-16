@@ -10,7 +10,7 @@ acousa2FishFrame <- function(strata_numbers_all,acoustic_data,spp,numbers){
     require(tcltk)
     require(matlab)
 
-    ### convert output tables into AB format (XLM)
+### convert output tables into AB format (XLM)
     len <- nrow(strata_numbers_all)
     AB <- data.frame("Year"=numeric(len),"Ship"=character(len),"Species"=numeric(len),"StatisticalRectangle"=character(len),"SubStatisticalRectangle"=character(len),"BiologicalSubArea"=character(len),"Number"=numeric(len),"Milage"=numeric(len))
     AB$Year <- unique(acoustic_data$YEAR)
@@ -54,7 +54,7 @@ acousa2FishFrame <- function(strata_numbers_all,acoustic_data,spp,numbers){
     len <- 0
     for (strat in 1:length(levels(acoustic_data$STRATA))){     
     stratum <- toupper(letters[strat])
-    age_matrix <- eval(as.name(paste("age_matrix_",stratum,sep="")))
+    age_matrix <- numbers[[2]][[strat]]
     stratmat_len <- length(which(colSums(age_matrix)>0))
     stratrec_len <- length(which(strata_numbers_all$STRATA==stratum))
     len <- len + stratmat_len*stratrec_len
@@ -73,8 +73,8 @@ acousa2FishFrame <- function(strata_numbers_all,acoustic_data,spp,numbers){
     SD$BiologicalSubArea <- as.character(SD$BiologicalSubArea)
     rpos <- 1
     for (strat in 1:length(levels(acoustic_data$STRATA))){     
-      stratum <- letter[strat]
-      age_matrix <- eval(as.name(paste("age_matrix_",stratum,sep="")))
+      stratum <- toupper(letters[strat])
+      age_matrix <- numbers[[2]][[strat]]
       nums_at_age <- as.data.frame(numbers[[2]][strat])
       #nums_at_age <- eval(as.name(paste("nums_at_age_",stratum,sep="")))
       weight_at_age <- as.data.frame(weights[[2]][strat])
