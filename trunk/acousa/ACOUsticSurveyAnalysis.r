@@ -44,8 +44,8 @@
 ### ============================================================================
 ### define directories
 ### ============================================================================
-    path <- choose.dir(".","find survey analysis working directory")
-    setwd(path)
+    path <- "D:/Repository/acousa/acousa/survey analysis/"
+    try(setwd(path),silent=TRUE)
     data.dir          <-  file.path(".",paste(as.character(survey)," ",as.character(year),sep=""),"input files")
     output.dir        <-  file.path(".",paste(as.character(survey)," ",as.character(year),sep=""),"results")
     
