@@ -9,7 +9,7 @@ You will need the following software to use the acousa repository.
   * Some way to write and edit R code. For Windows, try [http://rstudio.org/ RStudio] or [http://sourceforge.net/projects/tinn-r/ Tinn-R]. For Linux, you almost certaintly already have [http://en.wikipedia.org/wiki/Vi Vi]
 
 == Getting the Code ==
-Once you've got all the necessary bits and pieces, the next step is to fetch a "working copy" of the acousa repository from the server. The SVN client that you have installed takes care of this. The general process is client specific, but generally involves two steps 1. Create a directory for your working copy (e.g. D:/Repository/ and 2. "Checking out" the repository. 
+Once you've got all the necessary bits and pieces, the next step is to fetch a "working copy" of the acousa repository from the server. The SVN client that you have installed takes care of this. The general process is client specific, but generally involves two steps 1. Create a directory for your working copy (use D:/Repository/ACOUSA/ in order for the standard analysis code to recognise it) and 2. "Checking out" the repository. 
 
 We'll assume you can handle #1 yourself, but number 2 is a bit trickier, and is of course dependent on your SVN client. There are a number of good resources available e.g. for windows
   * On the [http://code.google.com/p/mseflr/ mseflr] project wiki
