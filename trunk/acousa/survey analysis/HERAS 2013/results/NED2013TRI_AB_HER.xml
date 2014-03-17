@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><FishFrameAcoustics>
+ <Aggregated>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="37E9" SubStatisticalRectangle="X" BiologicalSubArea="D">
+   <Number>20693185</Number>
+   <Milage>10</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="37F0" SubStatisticalRectangle="X" BiologicalSubArea="D">
+   <Number>787103665</Number>
+   <Milage>35</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="37F1" SubStatisticalRectangle="X" BiologicalSubArea="D">
+   <Number>40427415</Number>
+   <Milage>25</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="38E9" SubStatisticalRectangle="X" BiologicalSubArea="D">
+   <Number>211976327</Number>
+   <Milage>69</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="38F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>50543574</Number>
+   <Milage>34</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="38F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>0</Number>
+   <Milage>31</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="39E8" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>89516337</Number>
+   <Milage>10.8</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="39E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>785686</Number>
+   <Milage>33.8</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="39F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>11006912</Number>
+   <Milage>33.9</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="39F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>128372200</Number>
+   <Milage>50</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="40E8" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>840983</Number>
+   <Milage>28</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="40E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>53815192</Number>
+   <Milage>32</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="40F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>18192819</Number>
+   <Milage>32.6</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="40F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>40607794</Number>
+   <Milage>32.6</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="40F2" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>763869</Number>
+   <Milage>34</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="40F3" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>1081374</Number>
+   <Milage>32</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="40F4" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>0</Number>
+   <Milage>33</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="40F5" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>0</Number>
+   <Milage>21</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="41E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>0</Number>
+   <Milage>12</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="41E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>3778414</Number>
+   <Milage>33</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="41E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>887442524</Number>
+   <Milage>33</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="41F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>515814125</Number>
+   <Milage>31.9</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="41F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>18048823</Number>
+   <Milage>33</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="41F2" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>12401466</Number>
+   <Milage>31.5</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="41F3" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>230850</Number>
+   <Milage>33</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="41F4" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>902683</Number>
+   <Milage>33</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="41F5" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Number>4264610</Number>
+   <Milage>41.9</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="42E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>0</Number>
+   <Milage>22</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="42E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>5591373</Number>
+   <Milage>32</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="42F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>52885168</Number>
+   <Milage>31.6</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="42F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>148967923</Number>
+   <Milage>30</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="43E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>41037352</Number>
+   <Milage>23</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="43E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>65343001</Number>
+   <Milage>31</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="43F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>520527402</Number>
+   <Milage>32</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="43F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>41973636</Number>
+   <Milage>46.6</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="44E6" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>0</Number>
+   <Milage>32</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="44E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>54048597</Number>
+   <Milage>63</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="44E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>35511219</Number>
+   <Milage>31.4</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="44E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Number>292003885</Number>
+   <Milage>32.8</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="44F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Number>190738011</Number>
+   <Milage>33</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="44F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Number>10939248</Number>
+   <Milage>26.6</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="45E6" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>2768284</Number>
+   <Milage>5</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="45E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>30951231</Number>
+   <Milage>63</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="45E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Number>275058556</Number>
+   <Milage>62.4</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="45E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Number>698414008</Number>
+   <Milage>63.6</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="45F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Number>225781090</Number>
+   <Milage>62.8</Milage>
+  </Abundance>
+  <Abundance Year="2013" Ship="TRI2" Species="161722" StatisticalRectangle="45F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Number>94740016</Number>
+   <Milage>51</Milage>
+  </Abundance>
+ </Aggregated>
+</FishFrameAcoustics>
