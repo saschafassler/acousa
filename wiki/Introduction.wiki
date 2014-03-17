@@ -4,12 +4,11 @@ The following page describes how to setup and get started with using the acousa 
 
 == System Requirements ==
 You will need the following software to use the acousa repository. 
-  * R (at least version 2.13.0 or greater) for your system. [http://cran.r-project.org/ Available here].
+  * R (version 2.14.2 or greater) for your system. [http://cran.r-project.org/ Available here].
   * An SVN (subversion) client. For Windows users, we recommend [http://tortoisesvn.tigris.org/ TortoiseSVN]. Linux users will typically have access to such a client through their package distribution system.
   * Some way to write and edit R code. For Windows, try [http://rstudio.org/ RStudio] or [http://sourceforge.net/projects/tinn-r/ Tinn-R]. For Linux, you almost certaintly already have [http://en.wikipedia.org/wiki/Vi Vi]
 
 == Getting the Code ==
-
 Once you've got all the necessary bits and pieces, the next step is to fetch a "working copy" of the acousa repository from the server. The SVN client that you have installed takes care of this. The general process is client specific, but generally involves two steps 1. Create a directory for your working copy (e.g. D:/Repository/ and 2. "Checking out" the repository. 
 
 We'll assume you can handle #1 yourself, but number 2 is a bit trickier, and is of course dependent on your SVN client. There are a number of good resources available e.g. for windows
@@ -21,4 +20,4 @@ There are some key points to note here.
   * Finally, there is a wee trap for beginners when logging in for the first time - make sure that you use the password for the project that googlecode supplies you - *not* your login password to google itself (slightly counter-intuitive, I know)! This is detailed on in the [http://code.google.com/p/mseflr/wiki/UsingTortoiseSVN mseflr] page under "Project member checkout".
 
 == Installing the acousaR package ==
-Once you've checked our the source code from the repository, you're nearly ready to start running the survey analysis. You will also need the acousaR package, which contains the underlying code. You can install the latest release for your machine by downloading the package from the Download tab on this repository.
+Once you've checked our the source code from the repository, you're nearly ready to start running the survey analysis. You will also need the acousaR package, which contains the underlying code. As Google has discontinued the download facility it used to provide on its code project sites, binary copies of the newest acousaR package version can no longer be downloaded here. Therefore you need to create these yourself using the source code from the repository. Alternatively you can request them by sending an email to any of the repository creators.
