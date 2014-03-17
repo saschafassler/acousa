@@ -54,11 +54,11 @@
     surv_yr <- unique(acoustic_data$YEAR)
     surv_cd <- as.character(unique(acoustic_data$CRUISE))
     
-### load biological data from IMARES database
-    #Define needed variables 
-    user<-"..."
-    pass<-"..."
-    billie.ex(user,pass,surv_cd,surv_yr)
+# ### load biological data from IMARES database
+#     #Define needed variables 
+#     user<-"..."
+#     pass<-"..."
+#     billie.ex(user,pass,surv_cd,surv_yr)
 
 ################################################################################################################################
 ################################################################################################################################
@@ -82,4 +82,4 @@
     weights <- wBYstrata(SA_table,spp,numbers)    
     
 ### produce FishFrame XML files
-    AsaR2FishFrame(as.data.frame(numbers[1][1]),acoustic_data,spp,numbers)
+    acousa2FishFrame(as.data.frame(numbers[1][1]),acoustic_data,spp,numbers)
