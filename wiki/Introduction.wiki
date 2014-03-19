@@ -21,7 +21,7 @@ There are some key points to note here.
 
 == Installing the acousaR package ==
 Once you've checked out the source code from the repository, you're nearly ready to start running the survey analysis. You will also need the acousaR package, which contains the underlying code. As Google has discontinued the download facility it used to provide on its code project sites, binary copies of the newest acousaR package version can no longer be downloaded here. 
-Therefore, the latest version of the package is now hosted at github and can be downloaded from:
+Therefore, the latest version of the package is now hosted at [https://github.com/ GitHub] and can be downloaded from:
 
 [https://github.com/saschafassler/acousaR/releases]
 
