@@ -9,19 +9,19 @@ addStrata <- function(spp,surv_yr) {
     require(xlsReadWrite)
 
 ### check if strata and coast factor files exist for selected species
-    if(paste("strata_",surv_yr,"_",spp,".xls",sep="") %in% list.files(data.dir))
+    if(paste("ICESstrata_",surv_yr,"_",spp,".xls",sep="") %in% list.files(data.dir))
     {tkmessageBox(message = paste("strata file for ",spp," was found successfully!",sep=""),icon="info",type="ok")}
-    if(!paste("strata_",surv_yr,"_",spp,".xls",sep="") %in% list.files(data.dir))
+    if(!paste("ICESstrata_",surv_yr,"_",spp,".xls",sep="") %in% list.files(data.dir))
     {tkmessageBox(message = paste("No strata file for ",spp," was found!",sep=""),icon="warning",type="ok")}
 
 ### load strata file
     files <- list.files(data.dir)
-    strata_file <- list.files(data.dir,pattern = paste("strata_",surv_yr,"_",spp,".xls",sep=""))
+    strata_file <- list.files(data.dir,pattern = paste("ICESstrata_",surv_yr,"_",spp,".xls",sep=""))
     strata <- read.xls(file=paste(data.dir,strata_file,sep="/"),type="character",colNames=TRUE,rowNames=TRUE,sheet=1)
 
 ### get ICES rectangle list and strata per species
     rect <- matrix("",length(strata[strata!=""]),3)
-    coastFact <- read.xls(paste(data.dir,"/coastFact_",spp,".xls",sep=""),type="double",colNames=TRUE,rowNames=TRUE,sheet=1)
+    coastFact <- read.xls(paste(data.dir,"/ICEScoastFact_",spp,".xls",sep=""),type="double",colNames=TRUE,rowNames=TRUE,sheet=1)
     for (r in 1:nrow(strata)){
       for (c in 1:ncol(strata)){
         pos_rect <- length(rect[rect!=""])/ncol(rect)+1
