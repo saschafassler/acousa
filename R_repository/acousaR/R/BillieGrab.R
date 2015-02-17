@@ -71,7 +71,7 @@ billie.ex <- function(user,pass,survey,year){
 	#SQL code to getclkasses
 		for (i in 1:length(subsam_id)){
 			#sql_class	<- paste("select id from Vis_classes 	where SSE_ID = '", subsam_id[i],"'",sep="")
-			sql_class	<- paste("select *  from vis_classes 	where SSE_ID = '", subsam_id[i],"'",sep="")
+			sql_class	<- paste("select *  from vis_classes  where SSE_ID = '", subsam_id[i],"'",sep="")
 			class		<- sqlQuery(db.con, sql_class)
 			
 		if (i == 1){
@@ -194,7 +194,7 @@ if(year>=2011){
 PGNAPES <- replace(PGNAPES, is.na(PGNAPES), "")
 
 
-write.csv(PGNAPES, file=paste(data.dir,"PGNAPES_",survey,"_",year,".csv",sep=""), row.names=FALSE)
+write.csv(PGNAPES, file=paste(data.dir,"/PGNAPES_",survey,"_",year,".csv",sep=""), row.names=FALSE)
 
 }
 
