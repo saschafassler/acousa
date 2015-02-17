@@ -39,7 +39,7 @@
 ### setup survey
 ### ============================================================================
     survey <- "HERAS"
-    year <- 2013
+    year <- 2014
 
 ### ============================================================================
 ### define directories
@@ -54,11 +54,19 @@
     surv_yr <- unique(acoustic_data$YEAR)
     surv_cd <- as.character(unique(acoustic_data$CRUISE))
     
+<<<<<<< .mine
+### load biological data from IMARES database
+    #Define needed variables 
+    #user<-"sascha"
+    #pass<-"sascha"
+    #billie.ex(user,pass,surv_cd,surv_yr)
+=======
 # ### load biological data from IMARES database
 #     #Define needed variables 
 #     user<-"..."
 #     pass<-"..."
 #     billie.ex(user,pass,surv_cd,surv_yr)
+>>>>>>> .r109
 
 ################################################################################################################################
 ################################################################################################################################
