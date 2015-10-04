@@ -1,0 +1,1 @@
+The International Council for the Exploration of the Sea (ICES) coordinates various acoustic surveys for fish that cover the Baltic Sea, Skagerrak, Kattegat, North Sea, English Channel, Celtic Sea, Irish Sea, Bay of Biscay and the eastern Atlantic from the Shetlands to Gibraltar. This library enables acoustic survey data in PGNAPES database format to be analysed in R.
