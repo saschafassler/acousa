@@ -22,6 +22,7 @@
     require(tcltk)
     require(plyr)
     require(xlsReadWrite)
+    xls.getshlib()
     require(acousaR)
     require("RODBC")
     
@@ -39,7 +40,7 @@
 ### setup survey
 ### ============================================================================
     survey <- "HERAS"
-    year <- 2014
+    year <- 2015
 
 ### ============================================================================
 ### define directories
@@ -54,19 +55,11 @@
     surv_yr <- unique(acoustic_data$YEAR)
     surv_cd <- as.character(unique(acoustic_data$CRUISE))
     
-<<<<<<< .mine
-### load biological data from IMARES database
-    #Define needed variables 
-    #user<-"sascha"
-    #pass<-"sascha"
-    #billie.ex(user,pass,surv_cd,surv_yr)
-=======
 # ### load biological data from IMARES database
 #     #Define needed variables 
 #     user<-"..."
 #     pass<-"..."
 #     billie.ex(user,pass,surv_cd,surv_yr)
->>>>>>> .r109
 
 ################################################################################################################################
 ################################################################################################################################
@@ -91,3 +84,4 @@
     
 ### produce FishFrame XML files
     acousa2FishFrame(as.data.frame(numbers[1][1]),acoustic_data,spp,numbers)
+    
