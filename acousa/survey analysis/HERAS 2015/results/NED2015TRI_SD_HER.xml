@@ -1,0 +1,2134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><FishFrameAcoustics>
+ <Aggregated>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="44E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.298934673797433</Fraction>
+   <MeanWeight>58.4152905088363</MeanWeight>
+   <MeanLength>191.528806910105</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00374045551660179</Fraction>
+   <MeanWeight>86.9537270171238</MeanWeight>
+   <MeanLength>222.38431754281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="44E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.138335313772589</Fraction>
+   <MeanWeight>86.7758421533405</MeanWeight>
+   <MeanLength>220.77101529864</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.457603284945654</Fraction>
+   <MeanWeight>125.034138613296</MeanWeight>
+   <MeanLength>245.439125012548</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0620837852120115</Fraction>
+   <MeanWeight>146.919865026436</MeanWeight>
+   <MeanLength>259.127256478221</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.011518103432849</Fraction>
+   <MeanWeight>176.244537548508</MeanWeight>
+   <MeanLength>275.267341272523</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0138638257014507</Fraction>
+   <MeanWeight>158.935013538189</MeanWeight>
+   <MeanLength>274.0028411401</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00443987192196657</Fraction>
+   <MeanWeight>204.125801658035</MeanWeight>
+   <MeanLength>286.662494535673</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00576253131044867</Fraction>
+   <MeanWeight>186.321147203368</MeanWeight>
+   <MeanLength>286.502579737281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.000460273802807262</Fraction>
+   <MeanWeight>185</MeanWeight>
+   <MeanLength>295</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0032578805861821</Fraction>
+   <MeanWeight>209.894911399667</MeanWeight>
+   <MeanLength>300.671446849102</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="44E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.298934673797433</Fraction>
+   <MeanWeight>58.4152905088363</MeanWeight>
+   <MeanLength>191.528806910105</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00374045551660179</Fraction>
+   <MeanWeight>86.9537270171238</MeanWeight>
+   <MeanLength>222.38431754281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="44E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.138335313772589</Fraction>
+   <MeanWeight>86.7758421533405</MeanWeight>
+   <MeanLength>220.77101529864</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.457603284945654</Fraction>
+   <MeanWeight>125.034138613296</MeanWeight>
+   <MeanLength>245.439125012548</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0620837852120115</Fraction>
+   <MeanWeight>146.919865026436</MeanWeight>
+   <MeanLength>259.127256478221</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.011518103432849</Fraction>
+   <MeanWeight>176.244537548508</MeanWeight>
+   <MeanLength>275.267341272523</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0138638257014507</Fraction>
+   <MeanWeight>158.935013538189</MeanWeight>
+   <MeanLength>274.0028411401</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00443987192196657</Fraction>
+   <MeanWeight>204.125801658035</MeanWeight>
+   <MeanLength>286.662494535673</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00576253131044867</Fraction>
+   <MeanWeight>186.321147203368</MeanWeight>
+   <MeanLength>286.502579737281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.000460273802807262</Fraction>
+   <MeanWeight>185</MeanWeight>
+   <MeanLength>295</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0032578805861821</Fraction>
+   <MeanWeight>209.894911399667</MeanWeight>
+   <MeanLength>300.671446849102</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="44E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.298934673797433</Fraction>
+   <MeanWeight>58.4152905088363</MeanWeight>
+   <MeanLength>191.528806910105</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00374045551660179</Fraction>
+   <MeanWeight>86.9537270171238</MeanWeight>
+   <MeanLength>222.38431754281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="44E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.138335313772589</Fraction>
+   <MeanWeight>86.7758421533405</MeanWeight>
+   <MeanLength>220.77101529864</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.457603284945654</Fraction>
+   <MeanWeight>125.034138613296</MeanWeight>
+   <MeanLength>245.439125012548</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0620837852120115</Fraction>
+   <MeanWeight>146.919865026436</MeanWeight>
+   <MeanLength>259.127256478221</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.011518103432849</Fraction>
+   <MeanWeight>176.244537548508</MeanWeight>
+   <MeanLength>275.267341272523</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0138638257014507</Fraction>
+   <MeanWeight>158.935013538189</MeanWeight>
+   <MeanLength>274.0028411401</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00443987192196657</Fraction>
+   <MeanWeight>204.125801658035</MeanWeight>
+   <MeanLength>286.662494535673</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00576253131044867</Fraction>
+   <MeanWeight>186.321147203368</MeanWeight>
+   <MeanLength>286.502579737281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.000460273802807262</Fraction>
+   <MeanWeight>185</MeanWeight>
+   <MeanLength>295</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0032578805861821</Fraction>
+   <MeanWeight>209.894911399667</MeanWeight>
+   <MeanLength>300.671446849102</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="44E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.298934673797433</Fraction>
+   <MeanWeight>58.4152905088363</MeanWeight>
+   <MeanLength>191.528806910105</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00374045551660179</Fraction>
+   <MeanWeight>86.9537270171238</MeanWeight>
+   <MeanLength>222.38431754281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="44E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.138335313772589</Fraction>
+   <MeanWeight>86.7758421533405</MeanWeight>
+   <MeanLength>220.77101529864</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.457603284945654</Fraction>
+   <MeanWeight>125.034138613296</MeanWeight>
+   <MeanLength>245.439125012548</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0620837852120115</Fraction>
+   <MeanWeight>146.919865026436</MeanWeight>
+   <MeanLength>259.127256478221</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.011518103432849</Fraction>
+   <MeanWeight>176.244537548508</MeanWeight>
+   <MeanLength>275.267341272523</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0138638257014507</Fraction>
+   <MeanWeight>158.935013538189</MeanWeight>
+   <MeanLength>274.0028411401</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00443987192196657</Fraction>
+   <MeanWeight>204.125801658035</MeanWeight>
+   <MeanLength>286.662494535673</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00576253131044867</Fraction>
+   <MeanWeight>186.321147203368</MeanWeight>
+   <MeanLength>286.502579737281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.000460273802807262</Fraction>
+   <MeanWeight>185</MeanWeight>
+   <MeanLength>295</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0032578805861821</Fraction>
+   <MeanWeight>209.894911399667</MeanWeight>
+   <MeanLength>300.671446849102</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="44F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.298934673797433</Fraction>
+   <MeanWeight>58.4152905088363</MeanWeight>
+   <MeanLength>191.528806910105</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00374045551660179</Fraction>
+   <MeanWeight>86.9537270171238</MeanWeight>
+   <MeanLength>222.38431754281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="44F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.138335313772589</Fraction>
+   <MeanWeight>86.7758421533405</MeanWeight>
+   <MeanLength>220.77101529864</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.457603284945654</Fraction>
+   <MeanWeight>125.034138613296</MeanWeight>
+   <MeanLength>245.439125012548</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0620837852120115</Fraction>
+   <MeanWeight>146.919865026436</MeanWeight>
+   <MeanLength>259.127256478221</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.011518103432849</Fraction>
+   <MeanWeight>176.244537548508</MeanWeight>
+   <MeanLength>275.267341272523</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0138638257014507</Fraction>
+   <MeanWeight>158.935013538189</MeanWeight>
+   <MeanLength>274.0028411401</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00443987192196657</Fraction>
+   <MeanWeight>204.125801658035</MeanWeight>
+   <MeanLength>286.662494535673</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00576253131044867</Fraction>
+   <MeanWeight>186.321147203368</MeanWeight>
+   <MeanLength>286.502579737281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.000460273802807262</Fraction>
+   <MeanWeight>185</MeanWeight>
+   <MeanLength>295</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0032578805861821</Fraction>
+   <MeanWeight>209.894911399667</MeanWeight>
+   <MeanLength>300.671446849102</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="44F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.298934673797433</Fraction>
+   <MeanWeight>58.4152905088363</MeanWeight>
+   <MeanLength>191.528806910105</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00374045551660179</Fraction>
+   <MeanWeight>86.9537270171238</MeanWeight>
+   <MeanLength>222.38431754281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="44F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.138335313772589</Fraction>
+   <MeanWeight>86.7758421533405</MeanWeight>
+   <MeanLength>220.77101529864</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.457603284945654</Fraction>
+   <MeanWeight>125.034138613296</MeanWeight>
+   <MeanLength>245.439125012548</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0620837852120115</Fraction>
+   <MeanWeight>146.919865026436</MeanWeight>
+   <MeanLength>259.127256478221</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.011518103432849</Fraction>
+   <MeanWeight>176.244537548508</MeanWeight>
+   <MeanLength>275.267341272523</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0138638257014507</Fraction>
+   <MeanWeight>158.935013538189</MeanWeight>
+   <MeanLength>274.0028411401</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00443987192196657</Fraction>
+   <MeanWeight>204.125801658035</MeanWeight>
+   <MeanLength>286.662494535673</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00576253131044867</Fraction>
+   <MeanWeight>186.321147203368</MeanWeight>
+   <MeanLength>286.502579737281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.000460273802807262</Fraction>
+   <MeanWeight>185</MeanWeight>
+   <MeanLength>295</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="44F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0032578805861821</Fraction>
+   <MeanWeight>209.894911399667</MeanWeight>
+   <MeanLength>300.671446849102</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="45E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.298934673797433</Fraction>
+   <MeanWeight>58.4152905088363</MeanWeight>
+   <MeanLength>191.528806910105</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00374045551660179</Fraction>
+   <MeanWeight>86.9537270171238</MeanWeight>
+   <MeanLength>222.38431754281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="45E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.138335313772589</Fraction>
+   <MeanWeight>86.7758421533405</MeanWeight>
+   <MeanLength>220.77101529864</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.457603284945654</Fraction>
+   <MeanWeight>125.034138613296</MeanWeight>
+   <MeanLength>245.439125012548</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0620837852120115</Fraction>
+   <MeanWeight>146.919865026436</MeanWeight>
+   <MeanLength>259.127256478221</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.011518103432849</Fraction>
+   <MeanWeight>176.244537548508</MeanWeight>
+   <MeanLength>275.267341272523</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0138638257014507</Fraction>
+   <MeanWeight>158.935013538189</MeanWeight>
+   <MeanLength>274.0028411401</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00443987192196657</Fraction>
+   <MeanWeight>204.125801658035</MeanWeight>
+   <MeanLength>286.662494535673</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00576253131044867</Fraction>
+   <MeanWeight>186.321147203368</MeanWeight>
+   <MeanLength>286.502579737281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.000460273802807262</Fraction>
+   <MeanWeight>185</MeanWeight>
+   <MeanLength>295</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E6" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0032578805861821</Fraction>
+   <MeanWeight>209.894911399667</MeanWeight>
+   <MeanLength>300.671446849102</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="45E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.298934673797433</Fraction>
+   <MeanWeight>58.4152905088363</MeanWeight>
+   <MeanLength>191.528806910105</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00374045551660179</Fraction>
+   <MeanWeight>86.9537270171238</MeanWeight>
+   <MeanLength>222.38431754281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="45E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.138335313772589</Fraction>
+   <MeanWeight>86.7758421533405</MeanWeight>
+   <MeanLength>220.77101529864</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.457603284945654</Fraction>
+   <MeanWeight>125.034138613296</MeanWeight>
+   <MeanLength>245.439125012548</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0620837852120115</Fraction>
+   <MeanWeight>146.919865026436</MeanWeight>
+   <MeanLength>259.127256478221</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.011518103432849</Fraction>
+   <MeanWeight>176.244537548508</MeanWeight>
+   <MeanLength>275.267341272523</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0138638257014507</Fraction>
+   <MeanWeight>158.935013538189</MeanWeight>
+   <MeanLength>274.0028411401</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00443987192196657</Fraction>
+   <MeanWeight>204.125801658035</MeanWeight>
+   <MeanLength>286.662494535673</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00576253131044867</Fraction>
+   <MeanWeight>186.321147203368</MeanWeight>
+   <MeanLength>286.502579737281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.000460273802807262</Fraction>
+   <MeanWeight>185</MeanWeight>
+   <MeanLength>295</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E7" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0032578805861821</Fraction>
+   <MeanWeight>209.894911399667</MeanWeight>
+   <MeanLength>300.671446849102</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="45E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.298934673797433</Fraction>
+   <MeanWeight>58.4152905088363</MeanWeight>
+   <MeanLength>191.528806910105</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00374045551660179</Fraction>
+   <MeanWeight>86.9537270171238</MeanWeight>
+   <MeanLength>222.38431754281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="45E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.138335313772589</Fraction>
+   <MeanWeight>86.7758421533405</MeanWeight>
+   <MeanLength>220.77101529864</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.457603284945654</Fraction>
+   <MeanWeight>125.034138613296</MeanWeight>
+   <MeanLength>245.439125012548</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0620837852120115</Fraction>
+   <MeanWeight>146.919865026436</MeanWeight>
+   <MeanLength>259.127256478221</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.011518103432849</Fraction>
+   <MeanWeight>176.244537548508</MeanWeight>
+   <MeanLength>275.267341272523</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0138638257014507</Fraction>
+   <MeanWeight>158.935013538189</MeanWeight>
+   <MeanLength>274.0028411401</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00443987192196657</Fraction>
+   <MeanWeight>204.125801658035</MeanWeight>
+   <MeanLength>286.662494535673</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00576253131044867</Fraction>
+   <MeanWeight>186.321147203368</MeanWeight>
+   <MeanLength>286.502579737281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.000460273802807262</Fraction>
+   <MeanWeight>185</MeanWeight>
+   <MeanLength>295</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E8" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0032578805861821</Fraction>
+   <MeanWeight>209.894911399667</MeanWeight>
+   <MeanLength>300.671446849102</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="45E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.298934673797433</Fraction>
+   <MeanWeight>58.4152905088363</MeanWeight>
+   <MeanLength>191.528806910105</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00374045551660179</Fraction>
+   <MeanWeight>86.9537270171238</MeanWeight>
+   <MeanLength>222.38431754281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="45E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.138335313772589</Fraction>
+   <MeanWeight>86.7758421533405</MeanWeight>
+   <MeanLength>220.77101529864</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.457603284945654</Fraction>
+   <MeanWeight>125.034138613296</MeanWeight>
+   <MeanLength>245.439125012548</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0620837852120115</Fraction>
+   <MeanWeight>146.919865026436</MeanWeight>
+   <MeanLength>259.127256478221</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.011518103432849</Fraction>
+   <MeanWeight>176.244537548508</MeanWeight>
+   <MeanLength>275.267341272523</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0138638257014507</Fraction>
+   <MeanWeight>158.935013538189</MeanWeight>
+   <MeanLength>274.0028411401</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00443987192196657</Fraction>
+   <MeanWeight>204.125801658035</MeanWeight>
+   <MeanLength>286.662494535673</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00576253131044867</Fraction>
+   <MeanWeight>186.321147203368</MeanWeight>
+   <MeanLength>286.502579737281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.000460273802807262</Fraction>
+   <MeanWeight>185</MeanWeight>
+   <MeanLength>295</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45E9" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0032578805861821</Fraction>
+   <MeanWeight>209.894911399667</MeanWeight>
+   <MeanLength>300.671446849102</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="45F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.298934673797433</Fraction>
+   <MeanWeight>58.4152905088363</MeanWeight>
+   <MeanLength>191.528806910105</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00374045551660179</Fraction>
+   <MeanWeight>86.9537270171238</MeanWeight>
+   <MeanLength>222.38431754281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="45F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.138335313772589</Fraction>
+   <MeanWeight>86.7758421533405</MeanWeight>
+   <MeanLength>220.77101529864</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.457603284945654</Fraction>
+   <MeanWeight>125.034138613296</MeanWeight>
+   <MeanLength>245.439125012548</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0620837852120115</Fraction>
+   <MeanWeight>146.919865026436</MeanWeight>
+   <MeanLength>259.127256478221</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.011518103432849</Fraction>
+   <MeanWeight>176.244537548508</MeanWeight>
+   <MeanLength>275.267341272523</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0138638257014507</Fraction>
+   <MeanWeight>158.935013538189</MeanWeight>
+   <MeanLength>274.0028411401</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00443987192196657</Fraction>
+   <MeanWeight>204.125801658035</MeanWeight>
+   <MeanLength>286.662494535673</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00576253131044867</Fraction>
+   <MeanWeight>186.321147203368</MeanWeight>
+   <MeanLength>286.502579737281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.000460273802807262</Fraction>
+   <MeanWeight>185</MeanWeight>
+   <MeanLength>295</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F0" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0032578805861821</Fraction>
+   <MeanWeight>209.894911399667</MeanWeight>
+   <MeanLength>300.671446849102</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="45F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.298934673797433</Fraction>
+   <MeanWeight>58.4152905088363</MeanWeight>
+   <MeanLength>191.528806910105</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00374045551660179</Fraction>
+   <MeanWeight>86.9537270171238</MeanWeight>
+   <MeanLength>222.38431754281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="45F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.138335313772589</Fraction>
+   <MeanWeight>86.7758421533405</MeanWeight>
+   <MeanLength>220.77101529864</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.457603284945654</Fraction>
+   <MeanWeight>125.034138613296</MeanWeight>
+   <MeanLength>245.439125012548</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0620837852120115</Fraction>
+   <MeanWeight>146.919865026436</MeanWeight>
+   <MeanLength>259.127256478221</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.011518103432849</Fraction>
+   <MeanWeight>176.244537548508</MeanWeight>
+   <MeanLength>275.267341272523</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0138638257014507</Fraction>
+   <MeanWeight>158.935013538189</MeanWeight>
+   <MeanLength>274.0028411401</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00443987192196657</Fraction>
+   <MeanWeight>204.125801658035</MeanWeight>
+   <MeanLength>286.662494535673</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.00576253131044867</Fraction>
+   <MeanWeight>186.321147203368</MeanWeight>
+   <MeanLength>286.502579737281</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.000460273802807262</Fraction>
+   <MeanWeight>185</MeanWeight>
+   <MeanLength>295</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="45F1" SubStatisticalRectangle="X" BiologicalSubArea="A">
+   <Fraction>0.0032578805861821</Fraction>
+   <MeanWeight>209.894911399667</MeanWeight>
+   <MeanLength>300.671446849102</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.126666847209115</Fraction>
+   <MeanWeight>68.2347153860116</MeanWeight>
+   <MeanLength>202.457372449409</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.106359729249449</Fraction>
+   <MeanWeight>85.7339626218285</MeanWeight>
+   <MeanLength>217.833867999848</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.399722262290851</Fraction>
+   <MeanWeight>129.720695037735</MeanWeight>
+   <MeanLength>246.366404637177</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.00860240571369212</Fraction>
+   <MeanWeight>98.6666666666667</MeanWeight>
+   <MeanLength>230</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.171522725220808</Fraction>
+   <MeanWeight>125.613461880356</MeanWeight>
+   <MeanLength>247.142622784354</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0667154257386967</Fraction>
+   <MeanWeight>140.004027466692</MeanWeight>
+   <MeanLength>262.000662108461</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0040306047237267</Fraction>
+   <MeanWeight>124</MeanWeight>
+   <MeanLength>255</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0441836875948573</Fraction>
+   <MeanWeight>154.996789186837</MeanWeight>
+   <MeanLength>269.530067541419</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0330926090400559</Fraction>
+   <MeanWeight>175.771233819024</MeanWeight>
+   <MeanLength>282.355911027408</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0161594793004996</Fraction>
+   <MeanWeight>178.815713524031</MeanWeight>
+   <MeanLength>283.762116773342</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0101215507767145</Fraction>
+   <MeanWeight>192.638127988431</MeanWeight>
+   <MeanLength>291.460901569287</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0128226731415264</Fraction>
+   <MeanWeight>192.18302741261</MeanWeight>
+   <MeanLength>297.059300486483</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.126666847209115</Fraction>
+   <MeanWeight>68.2347153860116</MeanWeight>
+   <MeanLength>202.457372449409</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.106359729249449</Fraction>
+   <MeanWeight>85.7339626218285</MeanWeight>
+   <MeanLength>217.833867999848</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.399722262290851</Fraction>
+   <MeanWeight>129.720695037735</MeanWeight>
+   <MeanLength>246.366404637177</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.00860240571369212</Fraction>
+   <MeanWeight>98.6666666666667</MeanWeight>
+   <MeanLength>230</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.171522725220808</Fraction>
+   <MeanWeight>125.613461880356</MeanWeight>
+   <MeanLength>247.142622784354</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0667154257386967</Fraction>
+   <MeanWeight>140.004027466692</MeanWeight>
+   <MeanLength>262.000662108461</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0040306047237267</Fraction>
+   <MeanWeight>124</MeanWeight>
+   <MeanLength>255</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0441836875948573</Fraction>
+   <MeanWeight>154.996789186837</MeanWeight>
+   <MeanLength>269.530067541419</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0330926090400559</Fraction>
+   <MeanWeight>175.771233819024</MeanWeight>
+   <MeanLength>282.355911027408</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0161594793004996</Fraction>
+   <MeanWeight>178.815713524031</MeanWeight>
+   <MeanLength>283.762116773342</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0101215507767145</Fraction>
+   <MeanWeight>192.638127988431</MeanWeight>
+   <MeanLength>291.460901569287</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0128226731415264</Fraction>
+   <MeanWeight>192.18302741261</MeanWeight>
+   <MeanLength>297.059300486483</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.126666847209115</Fraction>
+   <MeanWeight>68.2347153860116</MeanWeight>
+   <MeanLength>202.457372449409</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.106359729249449</Fraction>
+   <MeanWeight>85.7339626218285</MeanWeight>
+   <MeanLength>217.833867999848</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.399722262290851</Fraction>
+   <MeanWeight>129.720695037735</MeanWeight>
+   <MeanLength>246.366404637177</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.00860240571369212</Fraction>
+   <MeanWeight>98.6666666666667</MeanWeight>
+   <MeanLength>230</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.171522725220808</Fraction>
+   <MeanWeight>125.613461880356</MeanWeight>
+   <MeanLength>247.142622784354</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0667154257386967</Fraction>
+   <MeanWeight>140.004027466692</MeanWeight>
+   <MeanLength>262.000662108461</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0040306047237267</Fraction>
+   <MeanWeight>124</MeanWeight>
+   <MeanLength>255</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0441836875948573</Fraction>
+   <MeanWeight>154.996789186837</MeanWeight>
+   <MeanLength>269.530067541419</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0330926090400559</Fraction>
+   <MeanWeight>175.771233819024</MeanWeight>
+   <MeanLength>282.355911027408</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0161594793004996</Fraction>
+   <MeanWeight>178.815713524031</MeanWeight>
+   <MeanLength>283.762116773342</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0101215507767145</Fraction>
+   <MeanWeight>192.638127988431</MeanWeight>
+   <MeanLength>291.460901569287</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0128226731415264</Fraction>
+   <MeanWeight>192.18302741261</MeanWeight>
+   <MeanLength>297.059300486483</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.126666847209115</Fraction>
+   <MeanWeight>68.2347153860116</MeanWeight>
+   <MeanLength>202.457372449409</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.106359729249449</Fraction>
+   <MeanWeight>85.7339626218285</MeanWeight>
+   <MeanLength>217.833867999848</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.399722262290851</Fraction>
+   <MeanWeight>129.720695037735</MeanWeight>
+   <MeanLength>246.366404637177</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.00860240571369212</Fraction>
+   <MeanWeight>98.6666666666667</MeanWeight>
+   <MeanLength>230</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.171522725220808</Fraction>
+   <MeanWeight>125.613461880356</MeanWeight>
+   <MeanLength>247.142622784354</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0667154257386967</Fraction>
+   <MeanWeight>140.004027466692</MeanWeight>
+   <MeanLength>262.000662108461</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0040306047237267</Fraction>
+   <MeanWeight>124</MeanWeight>
+   <MeanLength>255</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0441836875948573</Fraction>
+   <MeanWeight>154.996789186837</MeanWeight>
+   <MeanLength>269.530067541419</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0330926090400559</Fraction>
+   <MeanWeight>175.771233819024</MeanWeight>
+   <MeanLength>282.355911027408</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0161594793004996</Fraction>
+   <MeanWeight>178.815713524031</MeanWeight>
+   <MeanLength>283.762116773342</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0101215507767145</Fraction>
+   <MeanWeight>192.638127988431</MeanWeight>
+   <MeanLength>291.460901569287</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0128226731415264</Fraction>
+   <MeanWeight>192.18302741261</MeanWeight>
+   <MeanLength>297.059300486483</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.126666847209115</Fraction>
+   <MeanWeight>68.2347153860116</MeanWeight>
+   <MeanLength>202.457372449409</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.106359729249449</Fraction>
+   <MeanWeight>85.7339626218285</MeanWeight>
+   <MeanLength>217.833867999848</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.399722262290851</Fraction>
+   <MeanWeight>129.720695037735</MeanWeight>
+   <MeanLength>246.366404637177</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.00860240571369212</Fraction>
+   <MeanWeight>98.6666666666667</MeanWeight>
+   <MeanLength>230</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.171522725220808</Fraction>
+   <MeanWeight>125.613461880356</MeanWeight>
+   <MeanLength>247.142622784354</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0667154257386967</Fraction>
+   <MeanWeight>140.004027466692</MeanWeight>
+   <MeanLength>262.000662108461</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0040306047237267</Fraction>
+   <MeanWeight>124</MeanWeight>
+   <MeanLength>255</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0441836875948573</Fraction>
+   <MeanWeight>154.996789186837</MeanWeight>
+   <MeanLength>269.530067541419</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0330926090400559</Fraction>
+   <MeanWeight>175.771233819024</MeanWeight>
+   <MeanLength>282.355911027408</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0161594793004996</Fraction>
+   <MeanWeight>178.815713524031</MeanWeight>
+   <MeanLength>283.762116773342</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0101215507767145</Fraction>
+   <MeanWeight>192.638127988431</MeanWeight>
+   <MeanLength>291.460901569287</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0128226731415264</Fraction>
+   <MeanWeight>192.18302741261</MeanWeight>
+   <MeanLength>297.059300486483</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.126666847209115</Fraction>
+   <MeanWeight>68.2347153860116</MeanWeight>
+   <MeanLength>202.457372449409</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.106359729249449</Fraction>
+   <MeanWeight>85.7339626218285</MeanWeight>
+   <MeanLength>217.833867999848</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.399722262290851</Fraction>
+   <MeanWeight>129.720695037735</MeanWeight>
+   <MeanLength>246.366404637177</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.00860240571369212</Fraction>
+   <MeanWeight>98.6666666666667</MeanWeight>
+   <MeanLength>230</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.171522725220808</Fraction>
+   <MeanWeight>125.613461880356</MeanWeight>
+   <MeanLength>247.142622784354</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0667154257386967</Fraction>
+   <MeanWeight>140.004027466692</MeanWeight>
+   <MeanLength>262.000662108461</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0040306047237267</Fraction>
+   <MeanWeight>124</MeanWeight>
+   <MeanLength>255</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0441836875948573</Fraction>
+   <MeanWeight>154.996789186837</MeanWeight>
+   <MeanLength>269.530067541419</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0330926090400559</Fraction>
+   <MeanWeight>175.771233819024</MeanWeight>
+   <MeanLength>282.355911027408</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0161594793004996</Fraction>
+   <MeanWeight>178.815713524031</MeanWeight>
+   <MeanLength>283.762116773342</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0101215507767145</Fraction>
+   <MeanWeight>192.638127988431</MeanWeight>
+   <MeanLength>291.460901569287</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E7" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0128226731415264</Fraction>
+   <MeanWeight>192.18302741261</MeanWeight>
+   <MeanLength>297.059300486483</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.126666847209115</Fraction>
+   <MeanWeight>68.2347153860116</MeanWeight>
+   <MeanLength>202.457372449409</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.106359729249449</Fraction>
+   <MeanWeight>85.7339626218285</MeanWeight>
+   <MeanLength>217.833867999848</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.399722262290851</Fraction>
+   <MeanWeight>129.720695037735</MeanWeight>
+   <MeanLength>246.366404637177</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.00860240571369212</Fraction>
+   <MeanWeight>98.6666666666667</MeanWeight>
+   <MeanLength>230</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.171522725220808</Fraction>
+   <MeanWeight>125.613461880356</MeanWeight>
+   <MeanLength>247.142622784354</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0667154257386967</Fraction>
+   <MeanWeight>140.004027466692</MeanWeight>
+   <MeanLength>262.000662108461</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0040306047237267</Fraction>
+   <MeanWeight>124</MeanWeight>
+   <MeanLength>255</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0441836875948573</Fraction>
+   <MeanWeight>154.996789186837</MeanWeight>
+   <MeanLength>269.530067541419</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0330926090400559</Fraction>
+   <MeanWeight>175.771233819024</MeanWeight>
+   <MeanLength>282.355911027408</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0161594793004996</Fraction>
+   <MeanWeight>178.815713524031</MeanWeight>
+   <MeanLength>283.762116773342</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0101215507767145</Fraction>
+   <MeanWeight>192.638127988431</MeanWeight>
+   <MeanLength>291.460901569287</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0128226731415264</Fraction>
+   <MeanWeight>192.18302741261</MeanWeight>
+   <MeanLength>297.059300486483</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.126666847209115</Fraction>
+   <MeanWeight>68.2347153860116</MeanWeight>
+   <MeanLength>202.457372449409</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.106359729249449</Fraction>
+   <MeanWeight>85.7339626218285</MeanWeight>
+   <MeanLength>217.833867999848</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.399722262290851</Fraction>
+   <MeanWeight>129.720695037735</MeanWeight>
+   <MeanLength>246.366404637177</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.00860240571369212</Fraction>
+   <MeanWeight>98.6666666666667</MeanWeight>
+   <MeanLength>230</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.171522725220808</Fraction>
+   <MeanWeight>125.613461880356</MeanWeight>
+   <MeanLength>247.142622784354</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0667154257386967</Fraction>
+   <MeanWeight>140.004027466692</MeanWeight>
+   <MeanLength>262.000662108461</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0040306047237267</Fraction>
+   <MeanWeight>124</MeanWeight>
+   <MeanLength>255</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0441836875948573</Fraction>
+   <MeanWeight>154.996789186837</MeanWeight>
+   <MeanLength>269.530067541419</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0330926090400559</Fraction>
+   <MeanWeight>175.771233819024</MeanWeight>
+   <MeanLength>282.355911027408</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0161594793004996</Fraction>
+   <MeanWeight>178.815713524031</MeanWeight>
+   <MeanLength>283.762116773342</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0101215507767145</Fraction>
+   <MeanWeight>192.638127988431</MeanWeight>
+   <MeanLength>291.460901569287</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0128226731415264</Fraction>
+   <MeanWeight>192.18302741261</MeanWeight>
+   <MeanLength>297.059300486483</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.126666847209115</Fraction>
+   <MeanWeight>68.2347153860116</MeanWeight>
+   <MeanLength>202.457372449409</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.106359729249449</Fraction>
+   <MeanWeight>85.7339626218285</MeanWeight>
+   <MeanLength>217.833867999848</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.399722262290851</Fraction>
+   <MeanWeight>129.720695037735</MeanWeight>
+   <MeanLength>246.366404637177</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.00860240571369212</Fraction>
+   <MeanWeight>98.6666666666667</MeanWeight>
+   <MeanLength>230</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.171522725220808</Fraction>
+   <MeanWeight>125.613461880356</MeanWeight>
+   <MeanLength>247.142622784354</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0667154257386967</Fraction>
+   <MeanWeight>140.004027466692</MeanWeight>
+   <MeanLength>262.000662108461</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0040306047237267</Fraction>
+   <MeanWeight>124</MeanWeight>
+   <MeanLength>255</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0441836875948573</Fraction>
+   <MeanWeight>154.996789186837</MeanWeight>
+   <MeanLength>269.530067541419</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0330926090400559</Fraction>
+   <MeanWeight>175.771233819024</MeanWeight>
+   <MeanLength>282.355911027408</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0161594793004996</Fraction>
+   <MeanWeight>178.815713524031</MeanWeight>
+   <MeanLength>283.762116773342</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0101215507767145</Fraction>
+   <MeanWeight>192.638127988431</MeanWeight>
+   <MeanLength>291.460901569287</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0128226731415264</Fraction>
+   <MeanWeight>192.18302741261</MeanWeight>
+   <MeanLength>297.059300486483</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.126666847209115</Fraction>
+   <MeanWeight>68.2347153860116</MeanWeight>
+   <MeanLength>202.457372449409</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.106359729249449</Fraction>
+   <MeanWeight>85.7339626218285</MeanWeight>
+   <MeanLength>217.833867999848</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.399722262290851</Fraction>
+   <MeanWeight>129.720695037735</MeanWeight>
+   <MeanLength>246.366404637177</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.00860240571369212</Fraction>
+   <MeanWeight>98.6666666666667</MeanWeight>
+   <MeanLength>230</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.171522725220808</Fraction>
+   <MeanWeight>125.613461880356</MeanWeight>
+   <MeanLength>247.142622784354</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0667154257386967</Fraction>
+   <MeanWeight>140.004027466692</MeanWeight>
+   <MeanLength>262.000662108461</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="42F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0040306047237267</Fraction>
+   <MeanWeight>124</MeanWeight>
+   <MeanLength>255</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0441836875948573</Fraction>
+   <MeanWeight>154.996789186837</MeanWeight>
+   <MeanLength>269.530067541419</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0330926090400559</Fraction>
+   <MeanWeight>175.771233819024</MeanWeight>
+   <MeanLength>282.355911027408</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0161594793004996</Fraction>
+   <MeanWeight>178.815713524031</MeanWeight>
+   <MeanLength>283.762116773342</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0101215507767145</Fraction>
+   <MeanWeight>192.638127988431</MeanWeight>
+   <MeanLength>291.460901569287</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="42F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0128226731415264</Fraction>
+   <MeanWeight>192.18302741261</MeanWeight>
+   <MeanLength>297.059300486483</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="43E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.126666847209115</Fraction>
+   <MeanWeight>68.2347153860116</MeanWeight>
+   <MeanLength>202.457372449409</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="43E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.106359729249449</Fraction>
+   <MeanWeight>85.7339626218285</MeanWeight>
+   <MeanLength>217.833867999848</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.399722262290851</Fraction>
+   <MeanWeight>129.720695037735</MeanWeight>
+   <MeanLength>246.366404637177</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="43E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.00860240571369212</Fraction>
+   <MeanWeight>98.6666666666667</MeanWeight>
+   <MeanLength>230</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.171522725220808</Fraction>
+   <MeanWeight>125.613461880356</MeanWeight>
+   <MeanLength>247.142622784354</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0667154257386967</Fraction>
+   <MeanWeight>140.004027466692</MeanWeight>
+   <MeanLength>262.000662108461</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="43E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0040306047237267</Fraction>
+   <MeanWeight>124</MeanWeight>
+   <MeanLength>255</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0441836875948573</Fraction>
+   <MeanWeight>154.996789186837</MeanWeight>
+   <MeanLength>269.530067541419</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0330926090400559</Fraction>
+   <MeanWeight>175.771233819024</MeanWeight>
+   <MeanLength>282.355911027408</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0161594793004996</Fraction>
+   <MeanWeight>178.815713524031</MeanWeight>
+   <MeanLength>283.762116773342</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0101215507767145</Fraction>
+   <MeanWeight>192.638127988431</MeanWeight>
+   <MeanLength>291.460901569287</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43E8" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0128226731415264</Fraction>
+   <MeanWeight>192.18302741261</MeanWeight>
+   <MeanLength>297.059300486483</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="43E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.126666847209115</Fraction>
+   <MeanWeight>68.2347153860116</MeanWeight>
+   <MeanLength>202.457372449409</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="43E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.106359729249449</Fraction>
+   <MeanWeight>85.7339626218285</MeanWeight>
+   <MeanLength>217.833867999848</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.399722262290851</Fraction>
+   <MeanWeight>129.720695037735</MeanWeight>
+   <MeanLength>246.366404637177</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="43E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.00860240571369212</Fraction>
+   <MeanWeight>98.6666666666667</MeanWeight>
+   <MeanLength>230</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.171522725220808</Fraction>
+   <MeanWeight>125.613461880356</MeanWeight>
+   <MeanLength>247.142622784354</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0667154257386967</Fraction>
+   <MeanWeight>140.004027466692</MeanWeight>
+   <MeanLength>262.000662108461</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="43E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0040306047237267</Fraction>
+   <MeanWeight>124</MeanWeight>
+   <MeanLength>255</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0441836875948573</Fraction>
+   <MeanWeight>154.996789186837</MeanWeight>
+   <MeanLength>269.530067541419</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0330926090400559</Fraction>
+   <MeanWeight>175.771233819024</MeanWeight>
+   <MeanLength>282.355911027408</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0161594793004996</Fraction>
+   <MeanWeight>178.815713524031</MeanWeight>
+   <MeanLength>283.762116773342</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0101215507767145</Fraction>
+   <MeanWeight>192.638127988431</MeanWeight>
+   <MeanLength>291.460901569287</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43E9" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0128226731415264</Fraction>
+   <MeanWeight>192.18302741261</MeanWeight>
+   <MeanLength>297.059300486483</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="43F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.126666847209115</Fraction>
+   <MeanWeight>68.2347153860116</MeanWeight>
+   <MeanLength>202.457372449409</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="43F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.106359729249449</Fraction>
+   <MeanWeight>85.7339626218285</MeanWeight>
+   <MeanLength>217.833867999848</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.399722262290851</Fraction>
+   <MeanWeight>129.720695037735</MeanWeight>
+   <MeanLength>246.366404637177</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="43F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.00860240571369212</Fraction>
+   <MeanWeight>98.6666666666667</MeanWeight>
+   <MeanLength>230</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.171522725220808</Fraction>
+   <MeanWeight>125.613461880356</MeanWeight>
+   <MeanLength>247.142622784354</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0667154257386967</Fraction>
+   <MeanWeight>140.004027466692</MeanWeight>
+   <MeanLength>262.000662108461</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="43F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0040306047237267</Fraction>
+   <MeanWeight>124</MeanWeight>
+   <MeanLength>255</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0441836875948573</Fraction>
+   <MeanWeight>154.996789186837</MeanWeight>
+   <MeanLength>269.530067541419</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0330926090400559</Fraction>
+   <MeanWeight>175.771233819024</MeanWeight>
+   <MeanLength>282.355911027408</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0161594793004996</Fraction>
+   <MeanWeight>178.815713524031</MeanWeight>
+   <MeanLength>283.762116773342</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0101215507767145</Fraction>
+   <MeanWeight>192.638127988431</MeanWeight>
+   <MeanLength>291.460901569287</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43F0" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0128226731415264</Fraction>
+   <MeanWeight>192.18302741261</MeanWeight>
+   <MeanLength>297.059300486483</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="43F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.126666847209115</Fraction>
+   <MeanWeight>68.2347153860116</MeanWeight>
+   <MeanLength>202.457372449409</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="43F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.106359729249449</Fraction>
+   <MeanWeight>85.7339626218285</MeanWeight>
+   <MeanLength>217.833867999848</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.399722262290851</Fraction>
+   <MeanWeight>129.720695037735</MeanWeight>
+   <MeanLength>246.366404637177</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="43F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.00860240571369212</Fraction>
+   <MeanWeight>98.6666666666667</MeanWeight>
+   <MeanLength>230</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.171522725220808</Fraction>
+   <MeanWeight>125.613461880356</MeanWeight>
+   <MeanLength>247.142622784354</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="4" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0667154257386967</Fraction>
+   <MeanWeight>140.004027466692</MeanWeight>
+   <MeanLength>262.000662108461</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="43F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0040306047237267</Fraction>
+   <MeanWeight>124</MeanWeight>
+   <MeanLength>255</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="5" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0441836875948573</Fraction>
+   <MeanWeight>154.996789186837</MeanWeight>
+   <MeanLength>269.530067541419</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="6" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0330926090400559</Fraction>
+   <MeanWeight>175.771233819024</MeanWeight>
+   <MeanLength>282.355911027408</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="7" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0161594793004996</Fraction>
+   <MeanWeight>178.815713524031</MeanWeight>
+   <MeanLength>283.762116773342</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="8" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0101215507767145</Fraction>
+   <MeanWeight>192.638127988431</MeanWeight>
+   <MeanLength>291.460901569287</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="9" AgePlusGroup="+" Maturity="M" MaturityDetermination="M" StatisticalRectangle="43F1" SubStatisticalRectangle="X" BiologicalSubArea="B">
+   <Fraction>0.0128226731415264</Fraction>
+   <MeanWeight>192.18302741261</MeanWeight>
+   <MeanLength>297.059300486483</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="36F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="36F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="36F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="36F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="36F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="36F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="36F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="36F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="36F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="36F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="36F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="36F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="37F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="37F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="37F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="37F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="37F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="37F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="37F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="37F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="37F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="37F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="37F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="37F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="38E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="38E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="38E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="38E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="38E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="38E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="38F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="38F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="38F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="38F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="38F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="38F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="38F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="38F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="38F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="38F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="38F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="38F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="39E8" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="39E8" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="39E8" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="39E8" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="39E8" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="39E8" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="39E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="39E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="39E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="39E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="39E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="39E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="39F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="39F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="39F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="39F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="39F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="39F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="39F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="39F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="39F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="39F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="39F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="39F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40E8" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40E8" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40E8" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40E8" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40E8" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40E8" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40E9" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40F0" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40F1" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40F2" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40F2" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40F2" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40F2" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40F2" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40F2" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40F3" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40F3" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40F3" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40F3" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40F3" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40F3" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40F4" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40F4" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40F4" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40F4" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="40F4" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="40F4" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F2" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F2" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F2" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F2" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F2" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F2" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F3" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F3" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F3" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F3" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F3" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F3" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F4" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.737758447278037</Fraction>
+   <MeanWeight>45.1034959542536</MeanWeight>
+   <MeanLength>178.129136644525</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="1" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F4" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0165623807102079</Fraction>
+   <MeanWeight>41.6960854483851</MeanWeight>
+   <MeanLength>173.696085448385</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F4" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0267438802830356</Fraction>
+   <MeanWeight>86.4174301675977</MeanWeight>
+   <MeanLength>224.611173184357</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="2" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F4" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.195553643144</Fraction>
+   <MeanWeight>149.376466920933</MeanWeight>
+   <MeanLength>255.987604518116</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="I" MaturityDetermination="M" StatisticalRectangle="41F4" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.00595238095238066</Fraction>
+   <MeanWeight>92</MeanWeight>
+   <MeanLength>220</MeanLength>
+  </StockDetail>
+  <StockDetail Year="2015" Ship="TRI2" Species="161722" Stock="her-47d3" Age="3" AgePlusGroup="-" Maturity="M" MaturityDetermination="M" StatisticalRectangle="41F4" SubStatisticalRectangle="X" BiologicalSubArea="C">
+   <Fraction>0.0174292676323261</Fraction>
+   <MeanWeight>147.559509939897</MeanWeight>
+   <MeanLength>262.229496070272</MeanLength>
+  </StockDetail>
+ </Aggregated>
+</FishFrameAcoustics>
