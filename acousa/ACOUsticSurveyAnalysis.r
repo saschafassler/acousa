@@ -26,16 +26,6 @@
     require(acousaR)
     require("RODBC")
     
-#    ###temp###
-#    sourceDir <- function(path, trace = TRUE, ...) {
-#    for (nm in list.files(path, pattern = "\\.[RrSsQq]$")) {
-#       if(trace) cat(nm,":")           
-#       source(file.path(path, nm), ...)
-#       if(trace) cat("\n")
-#       }
-#    }
-#    sourceDir("D:/Sascha/Projects/AsaR/acousa/acousa/R_repository/acousaR/R/") #to contain acousaR library...
-
 ### ============================================================================
 ### setup survey
 ### ============================================================================
@@ -45,7 +35,7 @@
 ### ============================================================================
 ### define directories
 ### ============================================================================
-    path <- "D:/Repository/ACOUSA/acousa/tags/v1.03/acousa/survey analysis/"
+    path <- "D:/Repository/ACOUSA/acousa/trunk/acousa/survey analysis/"
     try(setwd(path),silent=TRUE)
     data.dir          <-  file.path(".",paste(as.character(survey)," ",as.character(year),sep=""),"input files")
     output.dir        <-  file.path(".",paste(as.character(survey)," ",as.character(year),sep=""),"results")
