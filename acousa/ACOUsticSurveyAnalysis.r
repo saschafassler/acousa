@@ -62,7 +62,10 @@
     rectangles <- addStrata(spp,surv_yr)
     acoustic_data <- merge(acoustic_data,rectangles,by="ICES")
     acoustic_data$ICESsurfarea <- as.numeric(as.character(acoustic_data$COASTFACT)) * acoustic_data$ICESTOTALAREA
+
+### plot
     
+        
 ### calculate NASC by ICES rectangle
     SA_table <- nascBYrect(acoustic_data,spp)
     
