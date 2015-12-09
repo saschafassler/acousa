@@ -1,14 +1,61 @@
+PlotNascMapBubbles <- function(acoustic_data,spp,SAres = 5) {
 
-PlotNascMapBubbles <- function(input=cpue.dat,what.quarter=3,what.year = 2010,what.cpue='cpue.by.n',xlim0=c(-5,10),ylim0=c(45,62),scaling.factor=10)
-{
-#
-#input=nfish2;
-#what.quarter=3;what.year = 2007;
-#what.cpue='cpue.by.n';
-#xlim0=c(-15,10);
-#ylim0=c(45,62);
-#scaling.factor=1
+### function to create NASC bubble plot for the selected species
 ###
+### input: -acoustic_data: acoustic data file with strata and ICES rectangle information
+###        -spp: 3 capital letter species code with apostrophes [e.g. "HER"]
+
+### load required packages
+    library(data.table)  
+  
+### get interval data summed over depth channels
+    spp_data <- data.table(acoustic_data[which(acoustic_data$SPECIES==spp),])
+    spp_data_int <- spp_data[,list(SA=sum(SA), LAT=mean(ACLAT), LON=mean(ACLON)), by='LOG']
+    spp_data_int <- spp_data_int[order(spp_data_int$LOG),]
+
+### sub-sample by SAres interval
+    int <- SAres
+    int_steps <- seq(ceiling(int/2),length(spp_data_int$LOG),int)
+    int_data <- matrix(NA,length(int_steps),3)
+    for(step in 1:length(int_steps)){
+      int_data[step,1] <- spp_data_int$LON[int_steps[step]]
+      int_data[step,2] <- spp_data_int$LAT[int_steps[step]]
+      int_data[step,3] <- mean(spp_data_int$SA[(step*int-(int-1)):(step*int)])
+    }
+    
+### bubble plot
+    minlon <- min(int_data[,1],na.rm=TRUE)
+    maxlon <- max(int_data[,1],na.rm=TRUE)
+    minlat <- min(int_data[,2],na.rm=TRUE)
+    maxlat <- max(int_data[,2],na.rm=TRUE)
+    extfact <- 0.3
+    x1 <- round(minlon - extfact*(maxlon-minlon),1)
+    x2 <- round(maxlon + extfact*(maxlon-minlon),1)
+    y1 <- round(minlat - extfact*(maxlat-minlat),1)
+    y2 <- round(maxlat + extfact*(maxlat-minlat),1)
+    
+    tiff(file=paste(output.dir,"/",spp,"_SAplot.tiff",sep=""),width=10,height=(y2-y1)*2/(x2-x1)*10,units="cm",res=300)
+    par(mfrow=c(1,1), mar=c(2,2,0.5,0.5), oma=c(1,1,1,1),family="serif", font=2)
+    
+    maxSA <- max(int_data[,3],na.rm=TRUE)
+    symbols(int_data[,1],
+            int_data[,2],
+            circles=sqrt(int_data[,3]/maxSA),
+            inches=0.3,
+            lwd=2,
+            yaxs="i",
+            xaxs="i",
+            xlim=c(x1,x2),
+            ylim=c(y1,y2),
+            xlab="",
+            ylab="")
+              
+    dev.off()     
+
+
+
+
+    
 plot(1,1,type='n', xlim=xlim0,ylim=ylim0,xlab='',ylab='')
 title(paste(what.year," Q",what.quarter," ",input$scientific.name[1],sep=''))
 
