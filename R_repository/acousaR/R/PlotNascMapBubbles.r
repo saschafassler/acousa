@@ -7,6 +7,9 @@ PlotNascMapBubbles <- function(acoustic_data,spp,SAres = 5) {
 
 ### load required packages
     library(data.table)  
+    library(maps)
+    library(mapdata)
+    data(nseaBathy)
   
 ### get interval data summed over depth channels
     spp_data <- data.table(acoustic_data[which(acoustic_data$SPECIES==spp),])
@@ -29,34 +32,43 @@ PlotNascMapBubbles <- function(acoustic_data,spp,SAres = 5) {
     minlat <- min(int_data[,2],na.rm=TRUE)
     maxlat <- max(int_data[,2],na.rm=TRUE)
     extfact <- 0.3
-    x1 <- round(minlon - extfact*(maxlon-minlon),1)
-    x2 <- round(maxlon + extfact*(maxlon-minlon),1)
-    y1 <- round(minlat - extfact*(maxlat-minlat),1)
-    y2 <- round(maxlat + extfact*(maxlat-minlat),1)
+    round(a/b)*b
+    x1 <- round((minlon - extfact*(maxlon-minlon))/1)*1
+    x2 <- round((maxlon + extfact*(maxlon-minlon))/1)*1
+    y1 <- round((minlat - extfact*(maxlat-minlat))/0.5)*0.5
+    y2 <- round((maxlat + extfact*(maxlat-minlat))/0.5)*0.5
     
     tiff(file=paste(output.dir,"/",spp,"_SAplot.tiff",sep=""),width=10,height=(y2-y1)*2/(x2-x1)*10,units="cm",res=300)
-    par(mfrow=c(1,1), mar=c(2,2,0.5,0.5), oma=c(1,1,1,1),family="serif", font=2)
+    par(mfrow=c(1,1), mar=c(4,4,2,0.5), oma=c(1,1,1,1),family="sans", font=2, xaxs="i",yaxs="i",xaxt="n",yaxt="n",bty="n")
     
     maxSA <- max(int_data[,3],na.rm=TRUE)
     symbols(int_data[,1],
             int_data[,2],
             circles=sqrt(int_data[,3]/maxSA),
-            inches=0.3,
-            lwd=2,
+            inches=0.1,
+            lwd=1.5,
             yaxs="i",
             xaxs="i",
             xlim=c(x1,x2),
             ylim=c(y1,y2),
-            xlab="",
-            ylab="")
-              
+            xlab=NULL,
+            ylab=NULL)
+    grid(nx=(x2-x1)/1,ny=(y2-y1)/0.5,col="grey")
+    #contour(nseaBathy$x,nseaBathy$y,nseaBathy$z,add=TRUE,col=colors()[245])
+    map('worldHires',add=TRUE,col=colors()[226],fill=T)
+    
+    title(paste(unique(acoustic_data$CRUISE),", NASC for species:  ",spp,sep=""),cex.main=1)
+    
+    box(bty="O",lwd=2) # bty=box type to surround plot (e.g. "O", "L", "7", "C", "U" to set box shape or "n" for none)
+    axis(side = 1, at = c(seq(x1,x2,1)), labels = as.character(seq(x1,x2,1)),las=1, cex.axis = 1.5,lwd=2,font=2)
+    axis(side = 2, at = seq(y1,y2,0.5), labels = as.character(seq(y1,y2,0.5)),las=1, cex.axis = 1.5,lwd=2,font=2)
+    
     dev.off()     
 
 
 
 
     
-plot(1,1,type='n', xlim=xlim0,ylim=ylim0,xlab='',ylab='')
 title(paste(what.year," Q",what.quarter," ",input$scientific.name[1],sep=''))
 
 map("worldHires", add=TRUE, col='darkseagreen', fill=TRUE, bg="white",
