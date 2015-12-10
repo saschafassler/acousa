@@ -63,7 +63,9 @@
     acoustic_data <- merge(acoustic_data,rectangles,by="ICES")
     acoustic_data$ICESsurfarea <- as.numeric(as.character(acoustic_data$COASTFACT)) * acoustic_data$ICESTOTALAREA
 
-### plot
+### plots
+    PlotTrack(acoustic_data)
+    PlotCoveredRecs(acoustic_data)
     PlotNascMapBubbles(acoustic_data,spp)
         
 ### calculate NASC by ICES rectangle
