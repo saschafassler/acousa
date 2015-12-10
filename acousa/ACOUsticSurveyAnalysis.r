@@ -30,7 +30,7 @@
 ### setup survey
 ### ============================================================================
     survey <- "HERAS"
-    year <- 2015
+    year <- 2013
 
 ### ============================================================================
 ### define directories
@@ -63,7 +63,7 @@
     acoustic_data <- merge(acoustic_data,rectangles,by="ICES")
     acoustic_data$ICESsurfarea <- as.numeric(as.character(acoustic_data$COASTFACT)) * acoustic_data$ICESTOTALAREA
 
-### plots
+### map plots
     PlotTrack(acoustic_data)
     PlotCoveredRecs(acoustic_data)
     PlotNascMapBubbles(acoustic_data,spp)
