@@ -6,13 +6,16 @@ PlotNascMapBubbles <- function(acoustic_data,spp,SAres = 5) {
 ###        -spp: 3 capital letter species code with apostrophes [e.g. "HER"]
 
 ### load required packages
-    library(data.table)  
     library(mapdata)
     #data(nseaBathy)
   
 ### get interval data summed over depth channels
-    spp_data <- data.table(acoustic_data[which(acoustic_data$SPECIES==spp),])
-    spp_data_int <- spp_data[,list(SA=sum(SA), LAT=mean(ACLAT), LON=mean(ACLON)), by='LOG']
+    spp_data <- acoustic_data[which(acoustic_data$SPECIES==spp),]
+    spp_data_int <- aggregate(spp_data$SA, by=list(LOG=spp_data$LOG), FUN=sum)
+    names(spp_data_int) <- c("LOG","SA")
+    loginfo <- spp_data[c("LOG","ACLON","ACLAT")]
+    loginfo <- loginfo[!duplicated(loginfo),]
+    spp_data_int <- merge(spp_data_int,loginfo)
     spp_data_int <- spp_data_int[order(spp_data_int$LOG),]
 
 ### sub-sample by SAres interval
@@ -20,8 +23,8 @@ PlotNascMapBubbles <- function(acoustic_data,spp,SAres = 5) {
     int_steps <- seq(ceiling(int/2),length(spp_data_int$LOG),int)
     int_data <- matrix(NA,length(int_steps),3)
     for(step in 1:length(int_steps)){
-      int_data[step,1] <- spp_data_int$LON[int_steps[step]]
-      int_data[step,2] <- spp_data_int$LAT[int_steps[step]]
+      int_data[step,1] <- spp_data_int$ACLON[int_steps[step]]
+      int_data[step,2] <- spp_data_int$ACLAT[int_steps[step]]
       int_data[step,3] <- mean(spp_data_int$SA[(step*int-(int-1)):(step*int)])
     }
     
