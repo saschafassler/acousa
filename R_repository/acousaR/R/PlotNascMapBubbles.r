@@ -7,9 +7,8 @@ PlotNascMapBubbles <- function(acoustic_data,spp,SAres = 5) {
 
 ### load required packages
     library(data.table)  
-    library(maps)
     library(mapdata)
-    data(nseaBathy)
+    #data(nseaBathy)
   
 ### get interval data summed over depth channels
     spp_data <- data.table(acoustic_data[which(acoustic_data$SPECIES==spp),])
@@ -32,97 +31,48 @@ PlotNascMapBubbles <- function(acoustic_data,spp,SAres = 5) {
     minlat <- min(int_data[,2],na.rm=TRUE)
     maxlat <- max(int_data[,2],na.rm=TRUE)
     extfact <- 0.3
-    round(a/b)*b
     x1 <- round((minlon - extfact*(maxlon-minlon))/1)*1
     x2 <- round((maxlon + extfact*(maxlon-minlon))/1)*1
     y1 <- round((minlat - extfact*(maxlat-minlat))/0.5)*0.5
     y2 <- round((maxlat + extfact*(maxlat-minlat))/0.5)*0.5
     
     tiff(file=paste(output.dir,"/",spp,"_SAplot.tiff",sep=""),width=10,height=(y2-y1)*2/(x2-x1)*10,units="cm",res=300)
-    par(mfrow=c(1,1), mar=c(4,4,2,0.5), oma=c(1,1,1,1),family="sans", font=2, xaxs="i",yaxs="i",xaxt="n",yaxt="n",bty="n")
+    par(mfrow=c(1,1), mar=c(4,4,2,0.5), oma=c(1,1,1,1),family="sans", font=2, xaxs="i",yaxs="i",bty="n")
     
     maxSA <- max(int_data[,3],na.rm=TRUE)
+    plot(int_data[,1],
+         int_data[,2],
+         col="white",
+         xlim=c(x1,x2),
+         ylim=c(y1,y2),
+         yaxs="i",
+         xaxs="i",
+         xlab="",
+         ylab="",
+         axes=FALSE)
+    grid(nx=(x2-x1)/1,ny=(y2-y1)/0.5,lty=1)
     symbols(int_data[,1],
             int_data[,2],
             circles=sqrt(int_data[,3]/maxSA),
             inches=0.1,
-            lwd=1.5,
+            lwd=1,
             yaxs="i",
             xaxs="i",
             xlim=c(x1,x2),
             ylim=c(y1,y2),
-            xlab=NULL,
-            ylab=NULL)
-    grid(nx=(x2-x1)/1,ny=(y2-y1)/0.5,col="grey")
+            xlab="",
+            ylab="",add=TRUE)
     #contour(nseaBathy$x,nseaBathy$y,nseaBathy$z,add=TRUE,col=colors()[245])
     map('worldHires',add=TRUE,col=colors()[226],fill=T)
     
-    title(paste(unique(acoustic_data$CRUISE),", NASC for species:  ",spp,sep=""),cex.main=1)
-    
-    box(bty="O",lwd=2) # bty=box type to surround plot (e.g. "O", "L", "7", "C", "U" to set box shape or "n" for none)
-    axis(side = 1, at = c(seq(x1,x2,1)), labels = as.character(seq(x1,x2,1)),las=1, cex.axis = 1.5,lwd=2,font=2)
-    axis(side = 2, at = seq(y1,y2,0.5), labels = as.character(seq(y1,y2,0.5)),las=1, cex.axis = 1.5,lwd=2,font=2)
+    title(paste(unique(acoustic_data$CRUISE),", NASC for species:  ",spp,sep=""),cex.main=0.75)
+    box(bty="O",lwd=1) # bty=box type to surround plot (e.g. "O", "L", "7", "C", "U" to set box shape or "n" for none)
+    axis(side = 1, at = c(seq(x1,x2,1)), labels = as.character(format(seq(x1,x2,1), nsmall = 0)),las=1, cex.axis = 0.5,lwd=1,font=1,mgp=c(3,0.5,0))
+    mtext("Longitude", side=1,line=2, cex=1,las=1)
+    axis(side = 2, at = seq(y1,y2,0.5), labels = as.character(format(seq(y1,y2,0.5), nsmall = 1)),las=1, cex.axis = 0.5,lwd=1,font=1,mgp=c(3,1,0))
+    mtext("Latitude", side=2,line=3, cex=1,las=3)
     
     dev.off()     
-
-
-
-
-    
-title(paste(what.year," Q",what.quarter," ",input$scientific.name[1],sep=''))
-
-map("worldHires", add=TRUE, col='darkseagreen', fill=TRUE, bg="white",
-regions=c('uk','ireland','france','germany','netherlands', 'norway','belgium',
-'spain','luxembourg','denmark', 'sweden','iceland', 'portugal','italy','sicily','ussr','sardinia','albania','monaco','turkey','austria',
-'switzerland','czechoslovakia','finland','libya', 'hungary','yugoslavia','poland','greece','romania','bulgaria', 'slovakia','morocco',
-'tunisia','algeria','egypt' ))
-
-ndatq <- input[!is.na(input[,what.cpue]) & input$quarter == what.quarter & input$year == what.year,]     # select year and quarter
-ww <- (1:length(ndatq[,1]))[ndatq[,what.cpue]==0]
-
-if(length(ww>0))
-{
-ndatq0 <- ndatq[ww,]  # the zeros
-ndatq1 <- ndatq[-ww,] # the +ve component
-}
-else{
-ndatq1 <- ndatq }
-
-m1 <- min(ndatq1[,what.cpue],na.rm=T)
-m2 <- max(ndatq1[,what.cpue],na.rm=T)
-if (m2 > m1) {
-qq<-seq(m1,m2,length=9)
-
-ll <- length(qq)
-
-legVals <- cut(ndatq1[,what.cpue], breaks=qq,labels=as.character(1:(ll-1)));
-
-blobSize <- cut(ndatq1[,what.cpue], breaks=qq, labels=as.character(1:(ll-1)))
-blobSize <- as.numeric(as.character(blobSize));
-
-if(length(ww>0)){
-points(ndatq1$shootlong,ndatq1$shootlat,cex=(blobSize*scaling.factor),pch=21,col='black',bg='yellow')
-points(ndatq0$shootlong,ndatq0$shootlat,pch=16,col='black',cex=.5)
-}
-#Just plot the positive data
-else{
-points(ndatq1$shootlong,ndatq1$shootlat,cex=(blobSize*scaling.factor),pch=21,col='black',bg='yellow')
-}
-
-
-#legend("topright",
-#legend=round(c(0,seq(min(ndatq1[,what.cpue]),max(ndatq1[,what.cpue]),length=6)),2),
-#pch=c(16,rep(21,7)),
-#pt.cex=seq(min(blobSize,na.rm=T),max(blobSize,na.rm=T),length=7)*scaling.factor,
-#pt.bg=c('black',rep('yellow',6)),
-
-#bg='white',
-
-#x.intersp=1.5,xjust=0.5,col=c('black',rep('black',6)),horiz=F,cex=.6,title=what.cpue)
-
-}
-
-else{print("Insufficient data")}
 
 }
 
